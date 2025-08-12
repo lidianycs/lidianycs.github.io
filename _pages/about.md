@@ -38,3 +38,32 @@ I am a **Doctor of Science (D.Sc.) in Computer Science** from the Federal Univer
 - Distinguished Paper at SBES; papers at SEAA 2025
 
 For the most up-to-date list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ).
+
+## Journal Reviewer
+
+<div class="reviewer-list">
+
+  <div class="reviewer-card">
+    <span class="year">2025–present</span>
+    <span>Information and Software Technology (IST)</span>
+  </div>
+
+  <div class="reviewer-card">
+    <span class="year">2025–present</span>
+    <span>Science of Computer Programming (Scico)</span>
+  </div>
+
+  <div class="reviewer-card">
+    <span class="year">2023–present</span>
+    <span>IEEE Software</span>
+  </div>
+
+  <!-- Add more like this -->
+  <!--
+  <div class="reviewer-card">
+    <span class="year">YEAR–YEAR</span>
+    <span>Journal / Conference name</span>
+  </div>
+  -->
+
+</div>
