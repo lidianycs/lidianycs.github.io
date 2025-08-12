@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title: "Lidiany Cerqueira"
 name: "Lidiany Cerqueira"
 description: "Software Engineering Researcher"
-email: your@email
+email: lidianycs@gmail.com
 url: "https://lidianycs.github.io"   # keep exactly this for a user site
 baseurl: ""                           # empty for user sites
 
@@ -21,14 +21,14 @@ baseurl: ""                           # empty for user sites
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lidiany Cerqueira"
   pronouns         : "she/her"  
   bio              : "Software Engineering Researcher | DSc in Computer Science"
-  location         : "Earth"
+  location         : "Brazil"
   employer         : "Federal University of Sergipe"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lidianycs@gmail.com" 
 
   # Academic websites
   academia         : # URL
