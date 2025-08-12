@@ -4,23 +4,18 @@
 /*
  * This file controls what is imported from /_sass
  *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * Note: files are processed in the order they are imported.
  */
 
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -29,15 +24,60 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+    "vendor/font-awesome/brands";
+
+/* Minimal Mistakes skin and core */
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* Research Interests grid */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: .75rem;
+}
+
+.research-card {
+  display: block;
+  border-radius: 12px;
+  padding: 1.25rem;
+  text-align: center;
+  text-decoration: none !important;
+  color: white; /* white text for contrast */
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0,0,0,.15);
+}
+
+.research-card .icon {
+  font-size: 34px;
+  margin-bottom: .65rem;
+}
+
+/* Colors for each card */
+.research-card.human-aspects {
+  background: #7c3aed; /* purple */
+}
+
+.research-card.ai4se {
+  background: #2563eb; /* blue */
+}
+
+.research-card.empirical-se {
+  background: #ea580c; /* orange */
+}
+
+.research-card.software-sustainability {
+  background: #16a34a; /* green */
+}
