@@ -12,22 +12,22 @@ I am a **Doctor of Science (D.Sc.) in Computer Science** from the Federal Univer
 ## Research Interests
 
 <div class="research-grid">
-  <a class="research-card human-aspects" href="/interests/human-aspects/">
+  <a class="research-card human-aspects" href="/">
     <div class="icon"><i class="fas fa-users"></i></div>
     <h3>Human Aspects of Software Engineering</h3>
   </a>
 
-  <a class="research-card ai4se" href="/interests/ai4se/">
+  <a class="research-card ai4se" href="/">
     <div class="icon"><i class="fas fa-brain"></i></div>
     <h3>AI for Software Engineering (AI4SE)</h3>
   </a>
 
-  <a class="research-card software-sustainability" href="/interests/software-sustainability/">
+  <a class="research-card software-sustainability" href="/">
     <div class="icon"><i class="fas fa-leaf"></i></div>
     <h3>Software Sustainability</h3>
   </a>
 
-  <a class="research-card empirical-se" href="/interests/empirical-se/">
+  <a class="research-card empirical-se" href="/">
     <div class="icon"><i class="fas fa-chart-line"></i></div>
     <h3>Empirical Software Engineering</h3>
   </a>
