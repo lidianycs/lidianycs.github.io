@@ -1,6 +1,11 @@
+
 ---
-layout: home
-title: "About Me"
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a **Doctor of Science (D.Sc.) in Computer Science** from the Federal University of Bahia, with a visiting research period at **Virginia Commonwealth University (VCU)**. Using mixed-methods approaches, my research focuses on the **human aspects of software engineering**, particularly **empathy**, **team dynamics**, **developers' well-being**, **diversity**, and **inclusion**. I have **15+ years of industry experience** as a software engineer, working for a startup company and at large government institutions.
