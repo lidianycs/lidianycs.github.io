@@ -1,6 +1,7 @@
 ---
 layout: home
-title: About Me
+title: "About Me"
+permalink: /
 ---
 
 I am a **Doctor of Science (D.Sc.) in Computer Science** from the Federal University of Bahia, with a visiting research period at **Virginia Commonwealth University (VCU)**. Using mixed-methods approaches, my research focuses on the **human aspects of software engineering**, particularly **empathy**, **team dynamics**, **developers' well-being**, **diversity**, and **inclusion**. I have **15+ years of industry experience** as a software engineer, working for a startup company and at large government institutions.
@@ -15,19 +16,19 @@ I am a **Doctor of Science (D.Sc.) in Computer Science** from the Federal Univer
 
   <a class="research-card ai4se" href="/interests/ai4se/">
     <div class="icon"><i class="fas fa-brain"></i></div>
-    <h3>AI for Software Engineering(AI4SE)</h3>
+    <h3>AI for Software Engineering (AI4SE)</h3>
   </a>
 
   <a class="research-card software-sustainability" href="/interests/software-sustainability/">
     <div class="icon"><i class="fas fa-leaf"></i></div>
     <h3>Software Sustainability</h3>
   </a>
-</div>
 
-<a class="research-card empirical-se" href="/interests/empirical-se/">
+  <a class="research-card empirical-se" href="/interests/empirical-se/">
     <div class="icon"><i class="fas fa-chart-line"></i></div>
     <h3>Empirical Software Engineering</h3>
   </a>
+</div>
 
 ### Selected highlights
 - Publications in IEEE Software, Springer Nature Computer Science, and TOSEM
