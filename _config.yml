@@ -37,7 +37,7 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-4989-0986"
-  linkedin: "https://www.linkedin.com/in/lidianycs/"
+  linkedin: "lidianycs/"
   researchgate     : # URL
 
 
@@ -48,12 +48,6 @@ author:
   github           : "lidianycs"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social
-github_username: lidianycs
-linkedin_username: lidianycs
-google_scholar_id: kxhHAW4AAAAJ
-orcid: 0000-0002-4989-0986
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
