@@ -21,8 +21,7 @@ I am dedicated to increasing access to computer science and enjoy teaching outre
 
   <a class="research-card ai4se" href="/">
     <div class="icon"><i class="fas fa-brain"></i></div>
-    <h3>AI4SE</h3>
-    <h3>SE4AI</h3>
+    <h3>AI4SE and SE4AI</h3>
   </a>
 
   <a class="research-card software-sustainability" href="/">
