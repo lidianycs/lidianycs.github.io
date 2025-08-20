@@ -9,7 +9,7 @@ author_profile: true
 
 ## Selected Talks
 
-- **SBES 2024**  
+- **SBES 2024 - Journal First**  
   *Empathy and its effects on software practitioners’ well-being and mental health*  
   Curitiba, Brazil  
 
@@ -17,10 +17,10 @@ author_profile: true
   *Exploring Empathy in Software Engineering Based on the Practitioners’ Perspective*  
   Porto de Galinhas, Brazil  
 
-- **ICEIS 2024**  
+- **ICEIS 2024 - Research Track**  
   *Software Engineers Engagement and Job Satisfaction: A Survey with Practitioners Working Remotely in a Public Organization*  
   Angers, France  
 
-- **SBES 2022**  
-  *The who, what and how of the current research at the Brazilian Symposium on Software Engineering*  
+- **SBES 2022 - Research Track**  
+  *The who, what, and how of the current research at the Brazilian Symposium on Software Engineering*  
   Uberlândia, Brazil
