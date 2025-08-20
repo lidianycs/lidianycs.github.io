@@ -109,8 +109,12 @@
 }
 
 /* Force profile picture into a circle */
+.sidebar .author__avatar img,
+.page__hero--overlay .author__avatar img,
 .author__avatar img {
-  border-radius: 50% !important;  /* circle */
-  object-fit: cover;              /* avoid stretching */
+  border-radius: 50% !important;   /* perfect circle */
+  object-fit: cover;               /* ensures it fills the circle */
+  width: 160px;                    /* optional: adjust size */
+  height: 160px;                   /* optional: adjust size */
 }
 
