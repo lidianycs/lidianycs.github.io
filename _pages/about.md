@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Doctor of Science (D.Sc.) in Computer Science** from the Federal University of Bahia, with a visiting research period at **Virginia Commonwealth University (VCU)**. Using mixed-methods approaches, my research focuses on the **human aspects of software engineering**, particularly **empathy**, **team dynamics**, **developers' well-being**, **diversity**, and **inclusion**. I have **15+ years of industry experience** as a software engineer, working for a startup company and at large government institutions.
+I am a **PhD in Computer Science** from the Federal University of Bahia, with a visiting research period at **Virginia Commonwealth University (VCU)**. Using mixed-methods approaches, my research focuses on the **human aspects of software engineering**, particularly **empathy**, **team dynamics**, **developers' well-being**, **diversity**, and **inclusion**. I have **15+ years of industry experience** as a software engineer, working for a startup company and at large government institutions.
+
+I am dedicated to increasing access to computer science and enjoy teaching outreach courses for underrepresented groups.
 
 ## Research Interests
 
@@ -19,7 +21,8 @@ I am a **Doctor of Science (D.Sc.) in Computer Science** from the Federal Univer
 
   <a class="research-card ai4se" href="/">
     <div class="icon"><i class="fas fa-brain"></i></div>
-    <h3>AI for Software Engineering (AI4SE)</h3>
+    <h3>Artificial Intelligence for Software Engineering (AI4SE)</h3>
+    <h3>Software Engineering for Artificial Intelligence (SE4AI)</h3>
   </a>
 
   <a class="research-card software-sustainability" href="/">
