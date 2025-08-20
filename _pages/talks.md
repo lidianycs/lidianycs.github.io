@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-![Lidiany presenting](images/me_talking.jpg){: .align-center style="max-width:364px; border-radius:12px;"}
+![Lidiany presenting](/images/me_talking.jpg){: .align-center style="width:50%; max-width:364px; border-radius:12px;"}
 
 ## Selected Talks
 
