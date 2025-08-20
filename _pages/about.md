@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Lidiany Cerqueira"
+seo_title: "Lidiany Cerqueira"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
