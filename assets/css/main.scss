@@ -107,3 +107,10 @@
   padding: 0.2rem 0.55rem;
   border-radius: 9999px;
 }
+
+/* Force profile picture into a circle */
+.author__avatar img {
+  border-radius: 50% !important;  /* circle */
+  object-fit: cover;              /* avoid stretching */
+}
+
