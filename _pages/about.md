@@ -21,8 +21,8 @@ I am dedicated to increasing access to computer science and enjoy teaching outre
 
   <a class="research-card ai4se" href="/">
     <div class="icon"><i class="fas fa-brain"></i></div>
-    <h3>Artificial Intelligence for Software Engineering (AI4SE)</h3>
-    <h3>Software Engineering for Artificial Intelligence (SE4AI)</h3>
+    <h3>AI4SE</h3>
+    <h3>SE4AI</h3>
   </a>
 
   <a class="research-card software-sustainability" href="/">
@@ -36,9 +36,8 @@ I am dedicated to increasing access to computer science and enjoy teaching outre
   </a>
 </div>
 
-### Selected highlights
-- Publications in IEEE Software, Springer Nature Computer Science, and TOSEM
-- Distinguished Paper at SBES; papers at SEAA 2025
+### Featured Work
+- [Exploring Empathy in Software Engineering: Insights from a Grey Literature Analysis of Practitioners' Perspectives](https://dl.acm.org/doi/abs/10.1145/3748721). **ACM Transactions on Software Engineering and Methodology**. 2025.
 
 For the most up-to-date list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ).
 
