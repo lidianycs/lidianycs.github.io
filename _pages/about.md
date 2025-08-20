@@ -45,18 +45,15 @@ For the most up-to-date list of publications, see my [Google Scholar](https://sc
 
 <div class="reviewer-list">
 
-  <div class="reviewer-card">
-    <span class="year">2025–present</span>
+  <div class="reviewer-card">    
     <span>Information and Software Technology (IST)</span>
   </div>
 
-  <div class="reviewer-card">
-    <span class="year">2025–present</span>
+  <div class="reviewer-card">    
     <span>Science of Computer Programming (Scico)</span>
   </div>
 
-  <div class="reviewer-card">
-    <span class="year">2023–present</span>
+  <div class="reviewer-card">    
     <span>IEEE Software</span>
   </div>
 
