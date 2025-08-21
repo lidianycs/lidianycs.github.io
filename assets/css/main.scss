@@ -47,13 +47,15 @@
   padding: 1.25rem;
   text-align: center;
   text-decoration: none !important;
-  color: white; /* white text for contrast */
+  background: #f0f9ff; /* light blue background */
+  border: 1px solid #dbeafe; /* subtle border */
+  color: #111827; /* dark text */
   transition: transform .12s ease, box-shadow .12s ease;
 }
 
 .research-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 14px rgba(0,0,0,.15);
+  box-shadow: 0 6px 14px rgba(0,0,0,.1);
 }
 
 .research-card .icon {
@@ -61,22 +63,26 @@
   margin-bottom: .65rem;
 }
 
-/* Colors for each card */
-.research-card.human-aspects {
-  background: #7c3aed; /* purple */
+/* Colored icons per topic */
+.research-card.human-aspects .icon {
+  color: #9333ea; /* purple */
 }
 
-.research-card.ai4se {
-  background: #2563eb; /* blue */
+.research-card.ai4se .icon {
+  color: #2563eb; /* blue */
 }
 
-.research-card.empirical-se {
-  background: #ea580c; /* orange */
+.research-card.empirical-se .icon {
+  color: #ea580c; /* orange */
 }
 
-.research-card.software-sustainability {
-  background: #16a34a; /* green */
+.research-card.software-sustainability .icon {
+  color: #16a34a; /* green */
 }
+
+
+
+
 
 /* Reviewer list cards */
 .reviewer-list {
