@@ -117,3 +117,33 @@
   height: 160px;                   /* optional: adjust size */
 }
 
+/* Teaching cards */
+.teaching-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.teaching-card {
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #2563eb; /* azul destaque */
+  border-radius: 12px;
+  padding: 1.2rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+.teaching-card .year {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #2563eb;
+  background: #e7efff;
+  padding: 0.2rem 0.6rem;
+  border-radius: 9999px;
+  margin-right: 0.5rem;
+}
+
+.teaching-card h3 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+}
