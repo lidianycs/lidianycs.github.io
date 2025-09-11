@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have a PhD in Computer Science from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (VCU) (Richmond, United States). Using mixed-methods approaches, my research focuses on the human aspects of software engineering, particularly empathy, team dynamics, developers' well-being, productivity, and inclusion. I have over 15 years of industry experience as a software engineer, working for a startup company and at large government institutions.
+I have a **PhD in Computer Science** from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (VCU) (Richmond, United States). Using **mixed-methods approaches**, my research focuses on the **human aspects of software engineering**, particularly empathy, team dynamics, developers' well-being, productivity, and inclusion. I have over 15 years of industry experience as a software engineer, working for a startup company and at large government institutions.
 
 I am dedicated to increasing access to computer science and enjoy teaching outreach courses for underrepresented groups.
 
