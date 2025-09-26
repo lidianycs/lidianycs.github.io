@@ -1,7 +1,7 @@
 main:
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=kxhHAW4AAAAJ"
-    target: "_blank"
+    external: true
 
   - title: "Teaching"
     url: /teaching/
@@ -14,7 +14,7 @@ main:
 
   - title: "Blog Posts"
     url: "https://dev.to/lidianycs"
-    target: "_blank"
+    external: true
 
   # - title: "CV"
   #   url: /cv/
