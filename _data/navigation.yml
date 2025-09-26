@@ -23,7 +23,8 @@ main:
     url: /outreach/
         
   - title: "Blog Posts"
-    url: /blog/
+    url: https://dev.to/lidianycs
+    target: "_blank"
     
   #- title: "CV"
    # url: /cv/
