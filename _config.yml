@@ -27,7 +27,7 @@ author:
   bio              : "SE Researcher | PhD in CS | IT Analyst"
   location         : "Brazil"
   employer         : "Federal University of Sergipe"
-  uri              : # URL
+  uri              : "https://dev.to/lidianycs"
   email            : #email
 
   # Academic websites
@@ -38,8 +38,8 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-4989-0986"
   linkedin: "lidianycs/"
-  researchgate     : # URL
-  devto            : "https://dev.to/lidianycs"   # 👈 Add this
+  researchgate     : "https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf"
+  devto            : "https://dev.to/lidianycs"   
 
 
   # Repositories and software development
