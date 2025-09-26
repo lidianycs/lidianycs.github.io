@@ -28,7 +28,7 @@ author:
   location         : "Brazil"
   employer         : "Federal University of Sergipe"
   uri              : # URL
-  email            : "lidianycs@gmail.com" 
+  email            : #email
 
   # Academic websites
   academia         : # URL
@@ -39,6 +39,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-4989-0986"
   linkedin: "lidianycs/"
   researchgate     : # URL
+  devto            : "https://dev.to/lidianycs"   # 👈 Add this
 
 
   # Repositories and software development
