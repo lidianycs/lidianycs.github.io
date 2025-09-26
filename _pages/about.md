@@ -8,20 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I have a **PhD in Computer Science** from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (VCU) (Richmond, United States). Using **mixed-methods approaches**, my research focuses on the **human aspects of software engineering**, particularly empathy, team dynamics, developers' well-being, productivity, and inclusion. I have over 15 years of industry experience as a software engineer, working for a startup company and at large government institutions.
+I have a **PhD in Computer Science** from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (VCU) (Richmond, United States). Using **mixed-methods approaches**, my research focuses on the **human aspects of software engineering**, particularly empathy, team dynamics, developers' well-being, productivity, and inclusion. I have over 15 years of industry experience as a software engineer, working for a startup company and at large government institutions. I am dedicated to increasing access to computer science and enjoy teaching outreach courses for underrepresented groups.
 
-I am dedicated to increasing access to computer science and enjoy teaching outreach courses for underrepresented groups.
+👉🏾[![Book a Meeting](https://img.shields.io/badge/Book%20a%20Meeting-5DA9E9?style=for-the-badge&logo=google-calendar&logoColor=white)](https://www.calday.me/lidianycs)  feel free to reach out 
 
-<p>
-  Feel free to reach out if you have questions or want to collaborate:
-  <button onclick="window.open('https://www.calday.me/lidianycs','_blank')"
-          style="background-color:#5DA9E9; color:#fff; padding:10px 20px;
-                 margin-left:8px; font-weight:bold; border:none;
-                 border-radius:8px; cursor:pointer;">
-    Book a Meeting
-  </button>
-</p>
-
+👉🏾[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kxhHAW4AAAAJ)  has my full list of publications
 
 
 
