@@ -27,7 +27,7 @@ author:
   bio              : "SE Researcher | PhD in CS | IT Analyst"
   location         : "Brazil"
   employer         : "Federal University of Sergipe"
-  uri              : "https://dev.to/lidianycs"
+  uri              : #"https://dev.to/lidianycs"
   email            : #email
 
   # Academic websites
