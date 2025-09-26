@@ -7,18 +7,18 @@ author_profile: true
 
 ## Selected Talks
 
+<p align="center">
+  <img src="/images/Lidiany-fse-24.png" alt="Lidiany at FSE 2024 Talk" width="500"/>
+</p>
+
 - **SBES 2024 - Journal First**  
   *Empathy and its effects on software practitioners’ well-being and mental health*
- <p align="left">
-  <img src="/images/sbes24-curitiba.png" alt="SBES 2024 Talk" width="500"/>
-</p> 
+ 
   Curitiba, Brazil  
 
 - **FSE 2024 — Doctoral Symposium**  
   *Exploring Empathy in Software Engineering Based on the Practitioners’ Perspective*
-  <p align="left">
-  <img src="/images/fse2024-porto.png" alt="FSE 2024 Talk" width="500"/>
-</p>
+ 
   Porto de Galinhas, Brazil  
 
 - **ICEIS 2024 - Research Track**  
