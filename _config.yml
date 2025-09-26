@@ -30,7 +30,7 @@ author:
   uri              : #"https://dev.to/lidianycs"
   email            : #email
 
- links:
+links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=kxhHAW4AAAAJ"
