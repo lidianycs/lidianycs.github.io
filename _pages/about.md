@@ -12,6 +12,19 @@ I have a **PhD in Computer Science** from the Federal University of Bahia (Salva
 
 I am dedicated to increasing access to computer science and enjoy teaching outreach courses for underrepresented groups.
 
+<p>
+  Feel free to reach out if you have questions or want to collaborate:
+  <button onclick="window.open('https://www.calday.me/lidianycs','_blank')"
+          style="background-color:#FF7F66; color:#fff; padding:10px 20px;
+                 margin-left:8px; font-weight:bold; border:none;
+                 border-radius:8px; cursor:pointer;">
+    Book a Meeting
+  </button>
+</p>
+
+
+
+
 ## Research Interests
 
 <div class="research-grid">
