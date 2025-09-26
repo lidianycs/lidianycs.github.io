@@ -10,9 +10,9 @@ redirect_from:
 
 I have a **PhD in Computer Science** from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (VCU) (Richmond, United States). Using **mixed-methods approaches**, my research focuses on the **human aspects of software engineering**, particularly empathy, team dynamics, developers' well-being, productivity, and inclusion. I have over 15 years of industry experience as a software engineer, working for a startup company and at large government institutions. I am dedicated to increasing access to computer science and enjoy teaching outreach courses for underrepresented groups.
 
-👉🏾[![Book a Meeting](https://img.shields.io/badge/Book%20a%20Meeting-5DA9E9?style=for-the-badge&logo=google-calendar&logoColor=white)](https://www.calday.me/lidianycs)  feel free to reach out 
+[![Book a Meeting](https://img.shields.io/badge/Book%20a%20Meeting-5DA9E9?style=for-the-badge&logo=google-calendar&logoColor=white)](https://www.calday.me/lidianycs)  if you wanna talk!
 
-👉🏾[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kxhHAW4AAAAJ)  has my full list of publications
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kxhHAW4AAAAJ)  has my full list of publications.
 
 
 
