@@ -13,7 +13,7 @@ My research uses **mixed-methods approaches** to study the **human aspects of so
 I bring over 15 years of industry experience as a software engineer and dedicate my efforts to promote inclusion and diversity in tech.
 
 <p>
-  Feel free to reach out:
+  I’m available for talks, projects, and reviewing. Feel free to reach out:
   <button onclick="window.open('https://www.calday.me/lidianycs','_blank')"
           style="background-color:#5DA9E9; color:#fff; padding:10px 20px;
                  margin-left:8px; font-weight:bold; border:none;
