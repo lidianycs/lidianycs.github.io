@@ -24,10 +24,11 @@ I bring over 15 years of industry experience as a software engineer and dedicate
 
 
 ## Research Interests
-- 👥 Human Aspects of Software Engineering  
+- 👥 Human Aspects of Software Engineering
+- ⛏️ Repository Mining
+- 📊 Empirical Software Engineering
 - 🧠 AI4SE and SE4AI  
 - 🌱 Software Sustainability  
-- 📊 Empirical Software Engineering
 
 ## Featured Work
 - [Exploring Empathy in Software Engineering: Insights from a Grey Literature Analysis of Practitioners' Perspectives](https://dl.acm.org/doi/abs/10.1145/3748721). **ACM TOSEM**, 2025.  
