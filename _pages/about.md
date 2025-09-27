@@ -9,12 +9,19 @@ redirect_from:
 ---
 
 I hold a **PhD in Computer Science** from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (VCU), United States.  
-My research uses **mixed-methods approaches** to study the **human aspects of software engineering** — especially empathy, team dynamics, developers' well-being, and inclusion.  
+My research uses **mixed-methods approaches** to study the **human aspects of software engineering**, especially empathy, team dynamics, developers' well-being, and inclusion.  
 I bring over 15 years of industry experience as a software engineer and dedicate my efforts to promote inclusion and diversity in tech.
 
-[![Book a Meeting](https://img.shields.io/badge/Meeting-5DA9E9?style=flat-square&logo=google-calendar&logoColor=white)](https://www.calday.me/lidianycs) 
+<p>
+  Feel free to reach out:
+  <button onclick="window.open('https://www.calday.me/lidianycs','_blank')"
+          style="background-color:#5DA9E9; color:#fff; padding:10px 20px;
+                 margin-left:8px; font-weight:bold; border:none;
+                 border-radius:8px; cursor:pointer;">
+    Book a Meeting
+  </button>
+</p>
 
----
 
 ## Research Interests
 - 👥 Human Aspects of Software Engineering  
@@ -22,9 +29,8 @@ I bring over 15 years of industry experience as a software engineer and dedicate
 - 🌱 Software Sustainability  
 - 📊 Empirical Software Engineering  
 
----
 
-### Featured Work
+## Featured Work
 - [Exploring Empathy in Software Engineering: Insights from a Grey Literature Analysis of Practitioners' Perspectives](https://dl.acm.org/doi/abs/10.1145/3748721). **ACM TOSEM**, 2025.  
 ➡️ For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ).
 
