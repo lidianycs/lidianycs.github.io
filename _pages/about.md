@@ -8,71 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I have a **PhD in Computer Science** from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (VCU) (Richmond, United States). Using **mixed-methods approaches**, my research focuses on the **human aspects of software engineering**, particularly empathy, team dynamics, developers' well-being, and inclusion. I have over 15 years of industry experience as a software engineer and I am dedicated to increasing access to computer science.
+I hold a **PhD in Computer Science** from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (VCU), United States.  
+My research uses **mixed-methods approaches** to study the **human aspects of software engineering** — especially empathy, team dynamics, developers' well-being, and inclusion.  
+I bring over 15 years of industry experience as a software engineer and dedicate my efforts to promote inclusion and diversity in tech.
 
-<a href="https://www.calday.me/lidianycs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Book%20a%20Meeting-5DA9E9?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Book a Meeting"/></a> if you wanna talk!
+[![Book a Meeting](https://img.shields.io/badge/Meeting-5DA9E9?style=flat-square&logo=google-calendar&logoColor=white)](https://www.calday.me/lidianycs) 
 
-
-<a href="https://scholar.google.com/citations?user=kxhHAW4AAAAJ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a> has my full list of publications.
-
-
-
+---
 
 ## Research Interests
+- 👥 Human Aspects of Software Engineering  
+- 🧠 AI4SE and SE4AI  
+- 🌱 Software Sustainability  
+- 📊 Empirical Software Engineering  
 
-<div class="research-grid">
-  <a class="research-card human-aspects" href="/">
-    <div class="icon"><i class="fas fa-users"></i></div>
-    <h3>Human Aspects of Software Engineering</h3>
-  </a>
-
-  <a class="research-card ai4se" href="/">
-    <div class="icon"><i class="fas fa-brain"></i></div>
-    <h3>AI4SE and SE4AI</h3>
-  </a>
-
-  <a class="research-card software-sustainability" href="/">
-    <div class="icon"><i class="fas fa-leaf"></i></div>
-    <h3>Software Sustainability</h3>
-  </a>
-
-  <a class="research-card empirical-se" href="/">
-    <div class="icon"><i class="fas fa-chart-line"></i></div>
-    <h3>Empirical Software Engineering</h3>
-  </a>
-</div>
+---
 
 ### Featured Work
-- [Exploring Empathy in Software Engineering: Insights from a Grey Literature Analysis of Practitioners' Perspectives](https://dl.acm.org/doi/abs/10.1145/3748721). **ACM Transactions on Software Engineering and Methodology**. 2025.
+- [Exploring Empathy in Software Engineering: Insights from a Grey Literature Analysis of Practitioners' Perspectives](https://dl.acm.org/doi/abs/10.1145/3748721). **ACM TOSEM**, 2025.  
+➡️ For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ).
 
-For the most up-to-date list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ).
+---
 
-## Journal Reviewer
+## Reviewer Service
+- *Journal of Systems & Software (JSS)*  
+- *Information and Software Technology (IST)*  
+- *Science of Computer Programming (Scico)*  
+- *IEEE Software*
 
-<div class="reviewer-list">
-
-<div class="reviewer-card">    
-    <span>Journal of Systems & Software (JSS)</span>
-  </div>
-
-  <div class="reviewer-card">    
-    <span>Information and Software Technology (IST)</span>
-  </div>
-
-  <div class="reviewer-card">    
-    <span>Science of Computer Programming (Scico)</span>
-  </div>
-
-  <div class="reviewer-card">    
-    <span>IEEE Software</span>
-  </div>
-
-  <!-- Add more like this -->
-  <!--
-  <div class="reviewer-card">
-    <span class="year">YEAR–YEAR</span>
-    <span>Journal / Conference name</span>
-  </div>
-  -->
 
 </div>
