@@ -27,20 +27,14 @@ I bring over 15 years of industry experience as a software engineer and dedicate
 - 👥 Human Aspects of Software Engineering  
 - 🧠 AI4SE and SE4AI  
 - 🌱 Software Sustainability  
-- 📊 Empirical Software Engineering  
-
+- 📊 Empirical Software Engineering
 
 ## Featured Work
 - [Exploring Empathy in Software Engineering: Insights from a Grey Literature Analysis of Practitioners' Perspectives](https://dl.acm.org/doi/abs/10.1145/3748721). **ACM TOSEM**, 2025.  
 ➡️ For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ).
-
----
 
 ## Reviewer Service
 - *Journal of Systems & Software (JSS)*  
 - *Information and Software Technology (IST)*  
 - *Science of Computer Programming (Scico)*  
 - *IEEE Software*
-
-
-</div>
