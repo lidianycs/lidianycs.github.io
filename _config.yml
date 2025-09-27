@@ -28,7 +28,7 @@ author:
   location         : "Brazil"
   employer         : "Federal University of Sergipe"
   uri              : # URL
-  email            : "lidianycs@gmail.com" 
+  email            : #"lidianycs@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -37,7 +37,7 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-4989-0986"
-  linkedin: "lidianycs/"
+  linkedin: "lidianycs"
   researchgate     : "https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf"
 
 
