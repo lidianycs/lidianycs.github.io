@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title: "Lidiany Cerqueira"
-name: "Lidiany Cerqueira"
+title: "Lidiany Cerqueira, PhD"
+name: "Lidiany Cerqueira, PhD"
 description: "Software Engineering Researcher"
 email: lidianycs@gmail.com
 url: "https://lidianycs.site"   # keep exactly this for a user site
