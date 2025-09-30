@@ -10,9 +10,7 @@
 main:
 
   - title: "Publications"
-    url: "https://scholar.google.com/citations?user=kxhHAW4AAAAJ"
-    target: _blank
-    rel: noopener
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/ 
