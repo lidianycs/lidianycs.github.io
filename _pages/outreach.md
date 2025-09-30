@@ -18,7 +18,7 @@ author_profile: true
       <li>
         Publication:  
         <a href="https://www.researchgate.net/profile/Lidiany-Cerqueira/publication/344658473_Envelhecimento_Tecnologia_e_Saude_Uma_Experiencia_Multidisciplinar_para_Promocao_do_Envelhecimento_Saudavel/links/5f874f6a299bf1b53e28cfd8/Envelhecimento-Tecnologia-e-Saude-Uma-Experiencia-Multidisciplinar-para-Promocao-do-Envelhecimento-Saudavel.pdf" target="_blank">
-        Envelhecimento, Tecnologia e Saúde — Uma Experiência Multidisciplinar para Promoção do Envelhecimento Saudável</a>
+        Aging, Technology and Health — A Multidisciplinary Experience to Promote Healthy Aging</a>
       </li>
     </ul>
   </div>
