@@ -12,7 +12,7 @@ I hold a **PhD in Computer Science** from the Federal University of Bahia (Salva
 My research uses **mixed-methods approaches** to study the **human aspects of software engineering**, especially empathy, team dynamics, developers' well-being, and inclusion.  
 I bring over 15 years of industry experience as a software engineer and dedicate my efforts to promote inclusion and diversity in tech.
 
-➡️ For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ){:target="_blank"}.
+➡️ For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ){:target="_blank"}
 
 <p>
   I’m available for talks, projects, and reviewing. Feel free to reach out:
