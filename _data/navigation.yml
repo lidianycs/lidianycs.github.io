@@ -9,8 +9,8 @@
 
 main:
 
-  #- title: "Publications"
-  # url: /publications/
+  - title: "Publications"
+   url: /publications/
 
   - title: "Teaching"
     url: /teaching/ 
@@ -21,8 +21,8 @@ main:
   - title: "Outreach"
     url: /outreach/
         
- # - title: "Blog Posts"
-  #  url: /blog/
+  - title: "Blog"
+    url: /blog/
     
   #- title: "CV"
    # url: /cv/
