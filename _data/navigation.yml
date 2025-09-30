@@ -23,8 +23,8 @@ main:
   - title: "Outreach"
     url: /outreach/
         
-  - title: "Blog"
-    url: /blog/
+ # - title: "Blog"
+ #   url: /blog/
     
   #- title: "CV"
    # url: /cv/
