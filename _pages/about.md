@@ -41,3 +41,4 @@ I bring over 15 years of industry experience as a software engineer and dedicate
 - *Information and Software Technology (IST)*  
 - *Science of Computer Programming (Scico)*  
 - *IEEE Software*
+- *JMIR mhealth and uhealth*
