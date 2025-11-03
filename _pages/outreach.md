@@ -5,18 +5,22 @@ permalink: /outreach/
 author_profile: true
 ---
 
-## BRAVAS in Tech - Community Manager
+## <img src="/images/bravas.png" alt="BRAVAS in Tech logo" width="120" style="vertical-align:middle; margin-right:10px; border-radius:10px;">   BRAVAS in Tech - Community Manager
 
-_Since 2025_
 
-- I’m proud to serve as a Community Manager at <a href="https://www.linkedin.com/company/bravasintech/" target="_blank"> BRAVAS in Tech</a>, a network that supports and empowers women in technology across Brazil and beyond.
+
+<em>Since 2025</em>
+
+I’m proud to serve as a Community Manager at 
+<a href="https://www.linkedin.com/company/bravasintech/" target="_blank">BRAVAS in Tech</a>, 
+a network that supports and empowers women in technology across Brazil and beyond.
 
 ## Outreach Projects
 
 <div class="outreach-list">
 
   <div class="outreach-card">
-    <span class="year">_2017–2018_</span>
+    <span class="year"><em>2017–2018</em></span>
     <h3>Aging, Technology, and Health</h3>
     <ul>
       <li>Designed and coordinated a project to empower older adults through technology and health classes.</li>
@@ -30,7 +34,7 @@ _Since 2025_
   </div>
 
   <div class="outreach-card">
-    <span class="year">_2017–2019_</span>
+    <span class="year"><em>2017–2019</em></span>
     <h3>Applied Informatics</h3>
     <ul>
       <li>Coordinated a team of health students who developed an Android app using App Inventor to teach human anatomy in health classes.</li>
@@ -47,7 +51,7 @@ _Since 2025_
   </div>
 
   <div class="outreach-card">
-    <span class="year">_Since 2011_</span>
+    <span class="year"><em>Since 2011</em></span>
     <h3>Workshops</h3>
     <ul>
       <li>Educational workshops covering topics such as Java programming, R programming for data science, cybersecurity, LaTeX, tools for remote education, and including underrepresented groups in computer science.</li>
