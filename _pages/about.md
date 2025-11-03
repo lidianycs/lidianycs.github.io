@@ -12,6 +12,8 @@ I hold a **PhD in Computer Science** from the Federal University of Bahia (Salva
 My research uses **mixed-methods approaches** to study the **human aspects of software engineering**, especially empathy, team dynamics, developers' well-being, and inclusion.  
 I bring over 15 years of industry experience as a software engineer and dedicate my efforts to promote inclusion and diversity in tech.
 
+✍🏾 I have published in leading venues such as ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Software, and Springer Nature Computer Science, and received a 🏆_Distinguished Paper Award_ at the Brazilian Symposium on Software Engineering (SBES).
+
 ➡️ For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ){:target="_blank"}
 
 <p>
