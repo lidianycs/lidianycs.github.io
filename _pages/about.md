@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I hold a **PhD in Computer Science** from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (VCU), United States.  
-My research uses **mixed-methods approaches** to study the **human aspects of software engineering**, especially empathy, team dynamics, developers' well-being, and inclusion.  
-I bring over 15 years of industry experience as a software engineer and dedicate my efforts to promote inclusion and diversity in tech.
+I am a Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, my research interests include f Human-Centric Computing, Software Engineering, Empirical Research, and Sustainability.
 
-✍🏾 I have published in leading venues such as ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Software, and Springer Nature Computer Science, and received a 🏆_Distinguished Paper Award_ at the Brazilian Symposium on Software Engineering (SBES).
+✍🏾 My research on empathy, developer well-being, and team dynamics has been published in leading venues such as ACM Transactions on Software Engineering and Methodology (TOSEM) and IEEE Software and has received a 🏆 Distinguished Paper Award. 
+
+As a Visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, I collaborated on international studies examining software team practices and collaboration.
+
+Beyond research, I have extensive experience in teaching and outreach, working with students from both traditional computer science programs and non-CS backgrounds. I am also a strong advocate for diversity and inclusion in technology and currently serve as a Community Manager at BRAVAS in Tech.
+
+I am also an active reviewer for top-tier software engineering venues, contributing to the research community through peer review and service.
+
 
 ➡️ For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ){:target="_blank"}
 
@@ -28,10 +33,10 @@ I bring over 15 years of industry experience as a software engineer and dedicate
 
 
 ## Research Interests
-- 👥 Human Aspects of Software Engineering
-- ⛏️ Repository Mining
-- 📊 Empirical Software Engineering
-- 🧠 AI4SE and SE4AI  
+- 👥 Human-Centric Computing
+- ⛏️ Software Engineering 
+- 📊 Empirical Research 
+- 🧠 AI4SE 
 - 🌱 Software Sustainability  
 
 ## Featured Work
