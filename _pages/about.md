@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, my research interests include f Human-Centric Computing, Software Engineering, Empirical Research, and Sustainability.
+I am a Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, my research interests include Human-Centric Computing, Software Engineering, Empirical Research, AI4SE, and Software Sustainability.
 
-✍🏾 My research on empathy, developer well-being, and team dynamics has been published in leading venues such as ACM Transactions on Software Engineering and Methodology (TOSEM) and IEEE Software and has received a 🏆 Distinguished Paper Award. 
+✍🏾 My research on empathy, developer well-being, and team dynamics has been published in leading venues such as ACM Transactions on Software Engineering and Methodology (TOSEM) and IEEE Software and has received a Distinguished Paper Award 🏆. 
 
 As a Visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, I collaborated on international studies examining software team practices and collaboration.
 
 Beyond research, I have extensive experience in teaching and outreach, working with students from both traditional computer science programs and non-CS backgrounds. I am also a strong advocate for diversity and inclusion in technology and currently serve as a Community Manager at BRAVAS in Tech.
 
-I am also an active reviewer for top-tier software engineering venues, contributing to the research community through peer review and service.
+I am an active reviewer for top-tier software engineering venues, contributing to the research community through peer review and service.
 
 
 ➡️ For a full list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ){:target="_blank"}
