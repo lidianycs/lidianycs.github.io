@@ -1,11 +1,16 @@
 ---
 layout: single
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-# Publications
+<style>
+p {
+  line-height: 1.1 !important;; /* Adjust this value (1.2 is tight, 1.5 is standard) */
+}
+
+</style>
 
 
 ## 2025
@@ -142,7 +147,7 @@ Revista Novas Tecnologias na Educação, pp. 21--30
 ## 2018
 
 ### [Prototipaçao de aplicativos como método de aprendizagem na informática em saúde: Um relato de experiência](http://milanesa.ime.usp.br/rbie/index.php/wie/article/viewFile/7877/5576)
-_Lidiany Santos, Danilo Neves, Hélio C de Moura Filho, Fabrı́cio Menezes, Luis Felipe S da Silva_
+_**Lidiany C Santos**, Danilo Neves, Hélio C de Moura Filho, Fabrı́cio Menezes, Luis Felipe S da Silva_
 
 Anais do Workshop de Informática na Escola, pp. 90--98
 <span style="background-color: #17a2b8; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em;">Conference</span> <a href="http://milanesa.ime.usp.br/rbie/index.php/wie/article/viewFile/7877/5576" style="text-decoration: none;"><span style="background-color: #6c757d; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em;">URL</span></a>
