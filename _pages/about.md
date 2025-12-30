@@ -10,7 +10,7 @@ redirect_from:
 
 Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, focusing on software engineering, human-centered computing, and empirical research.
 
-🏆 Researching on empathy, developer well-being, and team dynamics, published in leading venues, including ACM TOSEM and IEEE Software, and received a Distinguished Paper Award. 
+🏆 Among the first researchers in software engineering to empirically investigate empathy as a core human factor, including its effects on productivity, software quality, developers' well-being, collaboration, and mental health. Published in leading venues, including ACM TOSEM and IEEE Software, and received a Distinguished Paper Award.  
 
 As a Visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, collaborated on international studies examining software team practices and collaboration.
 
