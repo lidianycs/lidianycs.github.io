@@ -14,7 +14,7 @@ Senior Software Engineer and Computer Science researcher working at the intersec
 
 Visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, collaborated on international studies examining software team practices and collaboration.
 
-Extensive experience in teaching and outreach, working with students from both traditional computer science programs and non-CS backgrounds. Strong advocate for diversity and inclusion in technology, and currently serving as a Community Manager at BRAVAS in Tech.
+Experience in teaching and outreach, working with students from both traditional computer science programs and non-CS backgrounds. Strong advocate for diversity and inclusion in technology, and currently serving as a Community Manager at BRAVAS in Tech.
 
 Active reviewer for top-tier software engineering venues, contributing to the research community through peer review and service.
 
