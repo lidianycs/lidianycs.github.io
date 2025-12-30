@@ -12,7 +12,7 @@ Senior Software Engineer and Computer Science researcher working at the intersec
 
 🏆 Among the first researchers in software engineering to empirically investigate empathy as a core human factor, including its effects on productivity, software quality, developers' well-being, collaboration, and mental health. Published in leading venues, including ACM TOSEM and IEEE Software, and received a Distinguished Paper Award.  
 
-As a Visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, collaborated on international studies examining software team practices and collaboration.
+Visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, collaborated on international studies examining software team practices and collaboration.
 
 Extensive experience in teaching and outreach, working with students from both traditional computer science programs and non-CS backgrounds. Strong advocate for diversity and inclusion in technology, and currently serving as a Community Manager at BRAVAS in Tech.
 
