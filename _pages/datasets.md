@@ -1,11 +1,8 @@
 ---
-permalink: /
-seo_title: "Lidiany Cerqueira"
+layout: single
 title: "Datasets & Software"
+permalink: /datasets/
 author_profile: true
-redirect_from: 
-  - /datasets/
-  - /datasets.html
 ---
 
 
@@ -50,4 +47,5 @@ Zenodo (v2.0)
 **[Replication data [The who, what and how of the  current research at the Brazilian Symposium on Software Engineering]](https://doi.org/10.5281/zenodo.6859071)**  
 _**Lidiany Cerqueira**, Júlio César Andrade Silva, Ícaro Vasconcelos Alvim, Manoel Mendonça, José Amancio Macedo Santos_  
 Zenodo (v1)  
+
 <a href="https://doi.org/10.5281/zenodo.6859071" style="text-decoration: none;"><span style="background-color: #6c757d; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em;">DOI</span></a>
