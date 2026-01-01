@@ -8,10 +8,10 @@ author_profile: true
 
 
 - **2nd International Workshop on Responsible Software Engineering**
-Program Committee Member
+Program Committee Member (2026)
 
 - **XXII SBSI – Brazilian Symposium on Information Systems**
-Program Committee Member
+Program Committee Member (2026)
 
 - **Journal of Systems & Software**
 Reviewer (2025 - Present)
