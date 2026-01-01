@@ -1,11 +1,8 @@
 ---
-permalink: /
-seo_title: "Lidiany Cerqueira"
+layout: single
 title: "Datasets & Software"
 author_profile: true
-redirect_from: 
-  - /datasets/
-  - /datasets.html
+permalink: /datasets/ 
 ---
 
 
@@ -141,4 +138,5 @@ redirect_from:
     </div>
     <div class="dataset-note">Supplementary material of the paper "A Thematic Synthesis on Empathy in Software Engineering based on the Practitioners' Perspective"  (DOI https://doi.org/10.1145/3613372.3613407) accepted at the Research Track of the  XXXVII Brazilian Symposium on Software Engineering (SBES 2023). Recognized with the Artifacts Available Badge at the  OpenScienSE 2023 Workshop and a Distinguished Paper Award @ SBES'23.</div>
 </div>
+
 
