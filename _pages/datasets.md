@@ -65,8 +65,7 @@ permalink: /datasets/
 </style>
 
 To foster transparency and collaboration within the software engineering community, and in support to Open Science practices, I share bellow my datasets and tools to facilitate replication, reuse, and verification.
-
-## 2025
+
 
 <div class="dataset-item">
     <div class="dataset-header">
@@ -126,9 +125,7 @@ To foster transparency and collaboration within the software engineering communi
     </div>
     <div class="dataset-note">This dataset contains the results of a thematic analysis conducted on discussions from two Stack Exchange communities: Software Engineering and Project Management.   The analysis explores developers’ perceptions of productivity challenges, their impacts on well-being, and the effects on technical tasks. It is intended to support further research in software engineering, human factors, productivity studies, and qualitative analysis of practitioner discussions. It suplemments the paper "“Frustrating, Stressful, and Overwhelming”: Insights into Software Practitioners’ Productivity from Stack Exchange Discussions" published at SBES'25.</div>
 </div>
-
-
-## 2023
+
 
 <div class="dataset-item">
     <div class="dataset-header">
