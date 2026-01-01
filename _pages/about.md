@@ -18,7 +18,7 @@ As a visiting Researcher at Virginia Commonwealth University (VCU), funded by th
 
 I have experience in teaching and outreach, working with students from both traditional Computer Science programs and non-CS backgrounds. I'm a strong advocate for diversity and inclusion in technology, and I'm currently serving as a Community Manager at BRAVAS in Tech.
 
-Currently, I am an active reviewer for top-tier software engineering venues, and on the program committee of several conferences, contributing to the research community through peer review and service.
+Currently, I serve as an active reviewer for top-tier software engineering venues, and I'm a member of the program committee for several conferences, contributing to the research community through peer review and service.
 
 
 ➡️ For a full list of publications, see [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ){:target="_blank"}
