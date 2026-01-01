@@ -80,7 +80,7 @@ author_profile: true
 .badge-artifact{ background-color: transparent; color: #28a745; border: 1px solid #28a745; }
 </style>
 
-### Please, contact&nbsp;me&nbsp;if you want access to any of my papers.
+### Please, <a href="mailto:lidianycs@gmail.com" style="text-decoration: underline; color: #555;">contact me</a> if you want access to any of my papers.
 Publication titles are color-coded by venue: <span style="color: #0d47a1; font-weight: bold;">journal</span> | <span style="color: #0f5132; font-weight: bold;">conference</span> | <span style="color: #997404; font-weight: bold;">web articles</span>.
 
 ## 2025
