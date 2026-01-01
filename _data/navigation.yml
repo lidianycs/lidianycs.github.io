@@ -17,6 +17,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/ 
+
+    - title: "Service"
+    url: /service/
     
   - title: "Talks"
     url: /talks/    
@@ -24,6 +27,8 @@ main:
   - title: "Outreach"
     url: /outreach/
 
+  - title: "Awards"
+    url: /Awards/
   
         
  # - title: "Blog"
