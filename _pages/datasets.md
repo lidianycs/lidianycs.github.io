@@ -67,8 +67,6 @@ redirect_from:
 }
 </style>
 
-# Datasets & Software
-
 ## 2025
 
 <div class="dataset-item">
@@ -141,5 +139,6 @@ redirect_from:
     <div class="dataset-meta">
         <b>Lidiany Cerqueira</b>, Sávio Freire, João Pedro Silva Bastos, Rodrigo Spínola, Manoel Mendonça, José Amancio Macedo Santos. <span class="dataset-venue">(Zenodo (v2.0))</span>
     </div>
-    <div class="dataset-note">Supplementary material of the paper "A Thematic Synthesis on Empathy in Software Engineering based on the Practitioners' Perspective"  (DOI https://doi.org/10.1145/3613372.3613407) accepted at the Research Track of the  XXXVII Brazilian Symposium on Software Engineering (SBES 2023). Recognized with the Artifacts Available Badge at the  OpenScienSE 2023 Workshop and a Distinguished Paper Award.</div>
+    <div class="dataset-note">Supplementary material of the paper "A Thematic Synthesis on Empathy in Software Engineering based on the Practitioners' Perspective"  (DOI https://doi.org/10.1145/3613372.3613407) accepted at the Research Track of the  XXXVII Brazilian Symposium on Software Engineering (SBES 2023). Recognized with the Artifacts Available Badge at the  OpenScienSE 2023 Workshop and a Distinguished Paper Award @ SBES'23.</div>
 </div>
+
