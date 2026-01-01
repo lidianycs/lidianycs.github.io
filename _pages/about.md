@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, focusing on software engineering, human-centered computing, and empirical research.
+Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, my research interests include software engineering, human-centered computing, and empirical research.
 
-🏆 Among the first researchers in software engineering to empirically investigate empathy as a core human factor, including its effects on productivity, software quality, developers' well-being, collaboration, and mental health. Published in leading venues, including ACM TOSEM and IEEE Software, and received a Distinguished Paper Award.  
+I am among the first researchers to empirically investigate empathy as a core human factor in software engineering, including its effects on productivity, software quality, developers' well-being, collaboration, and mental health. I have published in leading venues, including _ACM TOSEM_ and _IEEE Software_.
 
-Visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, collaborated on international studies examining software team practices and collaboration.
+🏆 My research has been recognized with a **Distinguished Paper Award** at the 2023 Brazilian Symposium on Software Engineering, Research Track and a finalist placement for **Best Paper** in the Industry Track at the 2024 International Conference on Enterprise Information Systems (ICEIS).
 
-Experience in teaching and outreach, working with students from both traditional computer science programs and non-CS backgrounds. Strong advocate for diversity and inclusion in technology, and currently serving as a Community Manager at BRAVAS in Tech.
+As a visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, I collaborated on international studies examining software team practices and collaboration.
 
-Active reviewer for top-tier software engineering venues, contributing to the research community through peer review and service.
+I have experience in teaching and outreach, working with students from both traditional Computer Science programs and non-CS backgrounds. I'm a strong advocate for diversity and inclusion in technology, and I'm currently serving as a Community Manager at BRAVAS in Tech.
+
+Currently, I am an active reviewer for top-tier software engineering venues, and on the program committee of several conferences, contributing to the research community through peer review and service.
 
 
 ➡️ For a full list of publications, see [Google Scholar](https://scholar.google.com/citations?user=kxhHAW4AAAAJ){:target="_blank"}
