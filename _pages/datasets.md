@@ -64,6 +64,8 @@ permalink: /datasets/
 }
 </style>
 
+To foster transparency and collaboration within the software engineering community, and in support to Open Science practices, I share bellow my datasets and tools to facilitate replication, reuse, and verification.
+
 ## 2025
 
 <div class="dataset-item">
@@ -138,5 +140,6 @@ permalink: /datasets/
     </div>
     <div class="dataset-note">Supplementary material of the paper "A Thematic Synthesis on Empathy in Software Engineering based on the Practitioners' Perspective"  (DOI https://doi.org/10.1145/3613372.3613407) accepted at the Research Track of the  XXXVII Brazilian Symposium on Software Engineering (SBES 2023). Recognized with the Artifacts Available Badge at the  OpenScienSE 2023 Workshop and a Distinguished Paper Award @ SBES'23.</div>
 </div>
+
 
 
