@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, my research interests include software engineering, human-centered computing, and empirical research.
+A Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, my research interests include software engineering, human-centered computing, and empirical research.
 
-I am among the first researchers to empirically investigate empathy as a core human factor in software engineering, including its effects on productivity, software quality, developers' well-being, collaboration, and mental health. I have published in leading venues, including _ACM TOSEM_ and _IEEE Software_.
+Pioneer in the empirical study of empathy as a core human factor in software engineering, including its effects on productivity, software quality, developers' well-being, collaboration, and mental health. I have published in leading venues, including _ACM TOSEM_ and _IEEE Software_.
 
-🏆 My research has been recognized with a **Distinguished Paper Award** at the 2023 Brazilian Symposium on Software Engineering, Research Track and a finalist placement for **Best Paper** in the Industry Track at the 2024 International Conference on Enterprise Information Systems (ICEIS).
+🏆 My research has been recognized with a **Distinguished Paper Award** at the *2023 Brazilian Symposium on Software Engineering, Research Track* and a finalist placement for **Best Paper** in the *Industry Track at the 2024 International Conference on Enterprise Information Systems (ICEIS)*.
 
 As a visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, I collaborated on international studies examining software team practices and collaboration.
 
