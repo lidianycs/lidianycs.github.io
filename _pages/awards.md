@@ -5,21 +5,21 @@ permalink: /awards/
 description: Fellowships, grants, and awards received throughout my academic and professional career.
 ---
 
-## Fellowships and Grants
+## 🌱 Fellowships and Grants
 
-**ACM SIGSOFT - Fourth LATAM School in Software Engineering** (2024)
+**ACM SIGSOFT** - Fourth LATAM School in Software Engineering (2024)
 
-**Coordination for the Improvement of Higher Education Personnel – Institutional Program for Internationalization (CAPES PrInt)**
+**CAPES PrInt** - Coordination for the Improvement of Higher Education Personnel – Institutional Program for Internationalization
 Fellowship: Visiting Scholar at Virginia Commonwealth University (VCU) (Dec 2023 – May 2024)
 
-**ACM SIGSOFT - Second LATAM School in Software Engineering** (2022)
+**ACM SIGSOFT** - Second LATAM School in Software Engineering (2022)
 
-**State University of Feira de Santana - Fapesb Scientific Initiation Program**
-Fellowship: Undergraduate Researcher Scholarship (Jan 2007 – Feb 2008)
+**Jr Researcher**
+Fellowship: Undergraduate Researcher Scholarship, State University of Feira de Santana - Fapesb Scientific Initiation Program (Jan 2007 – Feb 2008) 
 
 ---
 
-## Honors and Awards
+## 🏆 Honors and Awards
 
 **Distinguished Paper**
 *A Thematic Synthesis on Empathy in Software Engineering*
