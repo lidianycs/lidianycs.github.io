@@ -148,7 +148,7 @@ Publication titles are color-coded by venue: <span style="color: #0d47a1; font-w
 
 
 <div class="pub-item">
-    <span class="pub-title pub-title-web">Exploring the DEV Community as a Data Source for Human Aspects in Software Engineering Research</span>
+    <a class="pub-title pub-title-web" href="https://dev.to/lidianycs/using-the-dev-community-as-a-data-source-for-human-aspects-in-software-engineering-research-h56">Exploring the DEV Community as a Data Source for Human Aspects in Software Engineering Research</a>
     <div class="pub-authors"><b>Lidiany Cerqueira</b></div>
     <div class="pub-venue">DEV.to</div>
     <div class="pub-badges">
@@ -158,7 +158,7 @@ Publication titles are color-coded by venue: <span style="color: #0d47a1; font-w
 
 
 <div class="pub-item">
-    <span class="pub-title pub-title-web">What Does Empathy Really Mean in Software Development?</span>
+    <a class="pub-title pub-title-web" href="https://dev.to/lidianycs/what-does-empathy-really-mean-in-software-development-36j6">What Does Empathy Really Mean in Software Development?</a>
     <div class="pub-authors"><b>Lidiany Cerqueira</b></div>
     <div class="pub-venue">DEV.to</div>
     <div class="pub-badges">
