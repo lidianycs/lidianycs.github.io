@@ -14,7 +14,7 @@ Pioneer in the empirical study of empathy as a core human factor in software eng
 
 🏆 My research has been recognized with a **Distinguished Paper Award** at the *2023 Brazilian Symposium on Software Engineering, Research Track* and a finalist placement for **Best Paper** in the *Industry Track at the 2024 International Conference on Enterprise Information Systems (ICEIS)*.
 
-As a visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, I collaborated on international studies examining software team practices and collaboration.
+As a visiting Researcher at Virginia Commonwealth University (VCU), funded by the competitive CAPES PrInt Fellowship, I had the opportunity to work on international studies examining software team practices and collaboration.
 
 I have experience in teaching and outreach, working with students from both traditional Computer Science programs and non-CS backgrounds. I'm a strong advocate for diversity and inclusion in technology, and I'm currently serving as a Community Manager at BRAVAS in Tech.
 
