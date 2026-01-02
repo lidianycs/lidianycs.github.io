@@ -14,8 +14,6 @@ author_profile: true
 
 I am proud to serve as a Community Manager at [BRAVAS in Tech](https://www.linkedin.com/company/bravasintech/), a group that supports and empowers women in technology across Brazil and beyond.
 
-<br style="clear:both;">
-
 ---
 
 ## Educational Projects
