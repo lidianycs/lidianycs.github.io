@@ -4,7 +4,7 @@ toc: false
 ---
 
 <div style="text-align: center; padding-top: 20px;">
-  <img src="/images/cat_404.png" alt="404 Cat Not Found" style="max-width: 500px; width: 50%; border-radius: 15px; margin-bottom: 20px;">
+  <img src="attachments/cat_404.png" alt="404 Cat Not Found" style="max-width: 500px; width: 50%; border-radius: 15px; margin-bottom: 20px;">
 
   <h1>Oops! Page Not Found.</h1>
    
