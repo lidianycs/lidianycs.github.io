@@ -29,7 +29,9 @@ about:
       href: "mailto:lidianycs@ufs.br"
 ---
 
-**Lidiany Cerqueira** is a Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, her research interests include software engineering, human-centered computing, and empirical research.
+## Lidiany Cerqueira, PhD.
+
+**Dr. Lidiany Cerqueira** is a Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, her research interests include software engineering, human-centered computing, and empirical research.
 
 She is a pioneer in the empirical study of empathy as a core human factor in software engineering, examining its effects on productivity, software quality, developers' well-being, collaboration, and mental health. She has published in leading venues, including [ACM TOSEM](https://doi.org/10.1145/3748721) and [IEEE Software](https://doi.org/10.1109/MS.2024.3377897).
 
