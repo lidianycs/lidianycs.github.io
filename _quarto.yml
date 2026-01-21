@@ -11,14 +11,16 @@ website:
   site-url: "https://lidianycs.site"
   favicon: attachments/logo.png
   search: true
-  navbar:
-    left:
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects
       - href: datasets.qmd
-        text: Datasets  
+        text: Datasets
       - href: publications.qmd
         text: Publications
       - href: outreach.qmd
@@ -29,24 +31,24 @@ website:
         text: Service
       - href: attachments/cv.pdf
         text: CV
-        target: _blank
-    right:
+  
+    tools:
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=kxhHAW4AAAAJ
         target: _blank
-      - text: "{{< ai orcid >}} "
+      - text: "{{< ai orcid >}}"
         href: http://orcid.org/0000-0002-4989-0986
         target: _blank
       - text: "{{< ai researchgate >}}"
         href: https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf
         target: _blank
-      - icon: github        
+      - icon: github
         href: https://github.com/lidianycs
         target: _blank
-      - icon: linkedin        
+      - icon: linkedin
         href: https://www.linkedin.com/in/lidianycs
         target: _blank
-      - icon: envelope        
+      - icon: envelope
         href: "mailto:lidianycs@ufs.br" 
 
   
