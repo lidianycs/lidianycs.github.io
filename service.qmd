@@ -1,0 +1,29 @@
+---
+title: "Service"
+---
+
+I am deeply committed to serving the software engineering community through leadership, peer review, and conference organization.
+
+## Program Committee Member
+
+I actively contribute to the technical quality and community direction of international conferences by serving on program committees and student competition tracks.
+
+* **2026** | [2nd International Workshop on Responsible Software Engineering (RESP-SE)](https://sites.google.com/view/responsiblese2026/about)
+* **2026** | [XII Latin American Conference on Human–Computer Interaction (CLIHC)](https://clihc2026.laihc.org/en/student-design-competition) 
+* **2026** | [XXII Brazilian Symposium on Information Systems (SBSI)](https://sbsi.sbc.org.br/2026/)
+
+## Organizing Committee Member
+* **2021** | [Computer Science Graduate Student Workshop (WEPGCOMP)](https://wepgcomp.github.io/)
+
+## Reviewer
+
+I ensure the integrity and rigor of scientific literature through consistent peer review for leading journals in software engineering.
+
+**Journals**
+
+* **2026 – Present** | The Journal of Open Source Software (JOSS)
+* **2025 – Present** | Journal of Systems & Software (JSS)
+* **2025 – Present** | Information and Software Technology (IST)
+* **2025 – Present** | Science of Computer Programming (SCP)
+* **2025 – Present** | JMIR mHealth and uHealth
+* **2024 – Present** | IEEE Software

@@ -1,0 +1,56 @@
+---
+title: "Teaching"
+---
+
+I have experience teaching Computer Science and Health Informatics at both undergraduate and outreach levels. My focus is on active learning, practical programming skills, and mentoring.
+
+## Federal University of Bahia (UFBA)
+
+**Lecturer & Teaching Assistant** | *Salvador, BA* | [2021 – 2025]{.badge .badge-conf}
+
+::: {.pub-item}
+[Functional Programming (MATA77-01)]{.pub-title .pub-title-journal}
+
+::: {.pub-authors}
+*Teaching Assistant*
+:::
+
+::: {.pub-venue}
+* Assisted in teaching functional paradigms to undergraduate students.
+* Delivered lectures to online classes of ~30 students.
+* Supported grading, prepared course materials, and guided students during practical activities.
+:::
+
+:::
+
+::: {.pub-item}
+[Project Tomorrow (Outreach Initiative)]{.pub-title .pub-title-journal}
+
+::: {.pub-authors}
+*Lecturer*
+:::
+
+::: {.pub-venue}
+* Taught **Python programming** and **Computational Thinking** as part of an outreach initiative.
+* Developed course materials and assessments.
+* Delivered lectures to online classes of ~30 students.
+:::
+
+:::
+
+<br>
+
+## Federal University of Sergipe (UFS)
+
+**Lecturer** | *Lagarto, SE* | [2017 – 2019]{.badge .badge-conf}
+
+::: {.pub-item}
+[Applied Health Informatics]{.pub-title .pub-title-journal}
+
+::: {.pub-venue}
+* Delivered lectures to classes of ~25 undergraduate students.
+* Developed full course materials and assessments.
+* Mentored undergraduate students in research and coursework.
+:::
+
+:::

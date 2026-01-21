@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: docs 
+  resources:
+    - CNAME
+  
+
+website:
+  title: "Lidiany Cerqueira, PhD"
+  google-analytics: "G-NTTVS2BF7B"
+  site-url: "https://lidianycs.site"
+  favicon: attachments/logo.png
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: datasets.qmd
+        text: Datasets  
+      - href: publications.qmd
+        text: Publications
+      - href: outreach.qmd
+        text: Outreach
+      - href: teaching.qmd
+        text: Teaching
+      - href: service.qmd
+        text: Service
+      - href: attachments/cv.pdf
+        text: CV
+        target: _blank
+    right:
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=kxhHAW4AAAAJ
+        target: _blank
+      - text: "{{< ai orcid >}} "
+        href: http://orcid.org/0000-0002-4989-0986
+        target: _blank
+      - text: "{{< ai researchgate >}}"
+        href: https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf
+        target: _blank
+      - icon: github        
+        href: https://github.com/lidianycs
+        target: _blank
+      - icon: linkedin        
+        href: https://www.linkedin.com/in/lidianycs
+        target: _blank
+      - icon: envelope        
+        href: "mailto:lidianycs@ufs.br" 
+
+  
+  page-footer:
+    left: "© 2026 Lidiany Cerqueira"
+    right:
+      - icon: github
+        href: https://github.com/lidianycs
+      - icon: linkedin
+        href: https://linkedin.com/in/lidianycs
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    link-external-newwindow: true

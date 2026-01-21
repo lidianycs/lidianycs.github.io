@@ -1,0 +1,95 @@
+---
+title: "Datasets & Software"
+---
+
+To foster transparency and collaboration within the software engineering community, and in support of Open Science practices, I share below my datasets and tools to facilitate replication, reuse, and verification.
+
+::: {.dataset-item}
+::: {.dataset-header}
+[Experimental Package: Exploring Empathy in Software Engineering Articles](https://doi.org/10.5281/zenodo.15800354){.dataset-title}
+[📊 Dataset]{.type-badge .type-dataset}
+:::
+
+::: {.dataset-meta}
+**Lidiany Cerqueira**. (Zenodo (v1.5))
+:::
+
+::: {.dataset-note}
+Contains all files, scripts, and instructions needed to replicate the data collection and analysis process for gathering and analyzing grey literature articles about empathy in software engineering from DEV.to and Medium, as well as a follow-up expert survey used to assess the resulting framework. Supplementary material of the paper "Exploring Empathy in Software Engineering: Insights from a Grey Literature Analysis of Practitioners’ Perspectives" published at ACM Transactions on Software Engineering and Methodology (TOSEM). RCR Report available at [https://doi.org/10.1145/3771771](https://doi.org/10.1145/3771771).
+:::
+:::
+
+::: {.dataset-item}
+::: {.dataset-header}
+[RAG-Coder: A Framework for Augmenting Qualitative Analysis - Beta Release](https://doi.org/10.5281/zenodo.17560393){.dataset-title}
+[💻 Software]{.type-badge .type-software}
+:::
+
+::: {.dataset-meta}
+**Lidiany Cerqueira**. (Zenodo (v1.0.1))
+:::
+
+::: {.dataset-note}
+RAG-Coder is a Python-based framework for semi-automating the qualitative analysis of open-ended survey data using Retrieval-Augmented Generation (RAG) strategies. The framework is part of the paper: “RAG-Coder: A Framework for Augmenting Qualitative Analysis in Empirical Software Engineering” by Lidiany Cerqueira and Renan Guerra, 2025.
+:::
+:::
+
+::: {.dataset-item}
+::: {.dataset-header}
+[Dissertation Empirical Package - Empathy-Guided Software Development: A Conceptual Framework of Empathy in Software Engineering](https://doi.org/10.5281/zenodo.16905241){.dataset-title}
+[📊 Dataset]{.type-badge .type-dataset}
+:::
+
+::: {.dataset-meta}
+**Lidiany Cerqueira**. (Zenodo (v1.2))
+:::
+
+::: {.dataset-note}
+This repository contains the datasets, scripts, and materials derived from the dissertation. The data is organized into three folders, each corresponding to a chapter.
+:::
+:::
+
+::: {.dataset-item}
+::: {.dataset-header}
+[CERCA – Citation Extraction & Reference Checking Assistant](https://github.com/lidianycs/cerca){.dataset-title}
+[💻 Software]{.type-badge .type-software}
+:::
+
+::: {.dataset-meta}
+**Lidiany Cerqueira**. ([GitHub Repository](https://github.com/lidianycs/cerca))
+:::
+
+::: {.dataset-note}
+CERCA is an open-source research tool that supports verification of bibliographic references in scientific manuscripts. It extracts references from PDF files and checks their existence and consistency against authoritative metadata sources, producing explainable diagnostics, audit logs, and reproducible reports.
+:::
+:::
+
+::: {.dataset-item}
+::: {.dataset-header}
+[Analysis Spreadsheet: Software Engineering and Project Management Forums on Stack Exchange](https://doi.org/10.5281/zenodo.15285103){.dataset-title}
+[📊 Dataset]{.type-badge .type-dataset}
+:::
+
+::: {.dataset-meta}
+Julio César Andrade Silva, **Lidiany Cerqueira Santos**, Beatriz Silva de Santana, Glauco de Figueiredo Carneiro, Emmanuel Sávio Silva Freire, Manoel Mendonça, José Amancio Macedo Santos. (Zenodo)
+:::
+
+::: {.dataset-note}
+This dataset contains the results of a thematic analysis conducted on discussions from two Stack Exchange communities: Software Engineering and Project Management. The analysis explores developers’ perceptions of productivity challenges, their impacts on well-being, and the effects on technical tasks. It is intended to support further research in software engineering, human factors, productivity studies, and qualitative analysis of practitioner discussions. It supplements the paper "Frustrating, Stressful, and Overwhelming: Insights into Software Practitioners’ Productivity from Stack Exchange Discussions" published at SBES'25.
+:::
+:::
+
+::: {.dataset-item}
+::: {.dataset-header}
+[A Thematic Synthesis on Empathy in Software Engineering based on the Practitioners' Perspective - Supplementary Material](https://doi.org/10.5281/zenodo.8217909){.dataset-title}
+[📊 Dataset]{.type-badge .type-dataset}
+:::
+
+::: {.dataset-meta}
+**Lidiany Cerqueira**, Sávio Freire, João Pedro Silva Bastos, Rodrigo Spínola, Manoel Mendonça, José Amancio Macedo Santos. (Zenodo (v2.0))
+:::
+
+::: {.dataset-note}
+Supplementary material of the paper "A Thematic Synthesis on Empathy in Software Engineering based on the Practitioners' Perspective" (DOI [https://doi.org/10.1145/3613372.3613407](https://doi.org/10.1145/3613372.3613407)) accepted at the Research Track of the XXXVII Brazilian Symposium on Software Engineering (SBES 2023). Recognized with the Artifacts Available Badge at the OpenScienSE 2023 Workshop and a Distinguished Paper Award @ SBES'23.
+:::
+:::

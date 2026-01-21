@@ -1,0 +1,109 @@
+---
+title: "Outreach"
+---
+
+To bridge the gap between practitioners and academia, I frequently contribute to media outlets and educational projects
+
+## Community Leadership
+
+<img src="/attachments/bravas.png" alt="BRAVAS in Tech logo" width="120" style="float: left; margin-right: 20px; border-radius: 10px;">
+
+**BRAVAS in Tech** <em>(Since 2025)</em>
+
+I am proud to serve as a **Board Member** and **Community Manager** at [BRAVAS in Tech](https://www.bravasintech.com/), a group that supports and empowers women in technology across Brazil and beyond.
+
+
+## Science Communication
+I actively produce content to bridge the gap between scientific research and software practitioners.
+I am a recurring author at DEV, a large developer's community.
+
+::: {.pub-item}
+[Exploring the DEV Community as a Data Source for Human Aspects in Software Engineering Research](https://dev.to/lidianycs/using-the-dev-community-as-a-data-source-for-human-aspects-in-software-engineering-research-h56){.pub-title .pub-title-web}
+
+::: {.pub-authors}
+**Lidiany Cerqueira**
+:::
+
+::: {.pub-venue}
+DEV.to
+:::
+
+::: {.pub-badges}
+[🌐 Web Article]{.badge .badge-web}
+:::
+
+:::
+
+::: {.pub-item}
+[What Does Empathy Really Mean in Software Development?](https://dev.to/lidianycs/what-does-empathy-really-mean-in-software-development-36j6){.pub-title .pub-title-web}
+
+::: {.pub-authors}
+**Lidiany Cerqueira**
+:::
+
+::: {.pub-venue}
+DEV.to
+:::
+
+::: {.pub-badges}
+[🌐 Web Article]{.badge .badge-web}
+:::
+
+:::
+
+
+## Educational Projects
+
+### Applied Informatics *2017 – 2019*
+
+Coordinated a students team which developed an Android app using no code tools to teach human anatomy in health classes. **Project Link:** [labmorfoquiz.github.io](https://labmorfoquiz.github.io/)
+
+**Related Publications:**
+- [RENOTE: LabMorfoQuiz: a Gamified Application as a Learning Resource in Higher Education Health Courses](https://seer.ufrgs.br/renote/article/view/99435)
+- [SBIE'20: Teaching computer science applied to health using App Inventor](https://sol.sbc.org.br/index.php/sbie/article/view/12776)
+- [Rev. Saúde Digital: Survey and evaluation of apps on anxiety and depression](https://repositorio.ufc.br/handle/riufc/54516)
+- [RENOTE: Informatics applied to health education](https://seer.ufrgs.br/renote/article/view/95703)
+
+
+
+### Aging, Technology, and Health 
+*2017 – 2018*
+
+I coordinated a multidisciplinary project to empower older adults through technology and health classes.
+* In this project, we developed and assessed an Android app to assist older adults in learning mobile technology for communication, entertainment, and health habits.
+
+**Publication:**
+* [Aging, Technology and Health — A Multidisciplinary Experience to Promote Healthy Aging](https://www.researchgate.net/profile/Lidiany-Cerqueira/publication/344658473_Envelhecimento_Tecnologia_e_Saude_Uma_Experiencia_Multidisciplinar_para_Promocao_do_Envelhecimento_Saudavel/links/5f874f6a299bf1b53e28cfd8/Envelhecimento-Tecnologia-e-Saude-Uma-Experiencia-Multidisciplinar-para-Promocao-do-Envelhecimento-Saudavel.pdf)
+
+
+
+## Workshops & Training 
+*Since 2011*
+
+I have been conducting educational workshops focusing on technical skills and inclusion in Computer Science.
+* **Topics:** Java programming, R for data science, Cybersecurity, LaTeX, and tools for remote education.
+* **Focus:** Promoting the inclusion of underrepresented groups in CS.
+
+## Selected Talks
+
+
+  <img src="/attachments/Lidiany-fse-24.png" alt="Lidiany at FSE 2024 Talk" width="250" style="float: left; margin-right: 20px; border-radius: 10px;"/>
+
+
+- **[Empathy in the AI Era](https://www.canva.com/design/DAG4_y0bSko/2YiCybTnCdtt5bqmq-NCoA/view?utm_content=DAG4_y0bSko&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4619993602)**
+  *University of Setúbal 2025 — Setúbal, Portugal.*
+  
+
+- **Empathy and its effects on software practitioners’ well-being and mental health**
+  *SBES 2024 —  Journal First, Curitiba, Brazil.* 
+ 
+- **Exploring Empathy in Software Engineering Based on the Practitioners’ Perspective**
+  *FSE 2024 —  Doctoral Symposium, Porto de Galinhas, Brazil.*    
+
+- **Software Engineers Engagement and Job Satisfaction: A Survey with Practitioners Working Remotely in a Public Organization**
+  *ICEIS 2024 —  Research Track*, Angers, France.  
+
+- **The who, what, and how of the current research at the Brazilian Symposium on Software Engineering**
+  *SBES 2022 —  Research Track, Uberlândia, Brazil*
+
+

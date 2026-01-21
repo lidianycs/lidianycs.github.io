@@ -1,0 +1,143 @@
+/* css styles */
+
+
+/* Publication Container */
+.pub-item {
+    margin-bottom: 20px; 
+    line-height: 1.4;
+}
+
+.pub-item p, .pub-authors p, .pub-venue p, .pub-badges p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+/* Titles */
+.pub-title {
+    font-weight: 700;
+    font-size: 1.05em;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 1px;
+    transition: color 0.2s;
+}
+
+/* Color Coding */
+.pub-title-journal { color: #0d47a1; }
+.pub-title-journal:hover { color: #007bff; text-decoration: underline; }
+
+.pub-title-conf { color: #0f5132; }
+.pub-title-conf:hover { color: #198754; text-decoration: underline; }
+
+.pub-title-web { color: #997404; }
+.pub-title-web:hover { color: #fd7e14; text-decoration: underline; }
+
+/* Authors & Venue */
+.pub-authors {
+    color: #555;
+    font-size: 0.95em;
+    margin-bottom: 1px; 
+}
+
+.pub-venue {
+    color: #666;
+    font-style: italic;
+    font-size: 0.9em;    
+    margin-bottom: 4px; 
+}
+
+/* Badges Container */
+.pub-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 6px;
+}
+
+/* Badge Styling */
+.badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 0.75em;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: default;
+}
+
+.badge-journal { background-color: #e3f2fd; color: #0d47a1; border: 1px solid #bbdefb; }
+.badge-conf    { background-color: #d1e7dd; color: #0f5132; border: 1px solid #badbcc; }
+.badge-web     { background-color: #fff3cd; color: #856404; border: 1px solid #ffeeba; }
+.badge-success { background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+.badge-award   { background-color: #fff3cd; color: #856404; border: 1px solid #ffeeba; }
+.badge-artifact{ background-color: transparent; color: #28a745; border: 1px solid #28a745; }
+
+/* --- Datasets & Software Styles --- */
+
+.dataset-item {
+    margin-bottom: 30px;
+    border-left: 3px solid #eee; /* subtle border to separate items */
+    padding-left: 15px;
+}
+
+.dataset-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 5px;
+}
+
+.dataset-title {
+    font-weight: 700;
+    font-size: 1.1em;
+    text-decoration: none;
+    color: #2c3e50;
+}
+
+.dataset-title:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.dataset-meta {
+    font-size: 0.9em;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.dataset-note {
+    font-size: 0.95em;
+    color: #444;
+    line-height: 1.5;
+}
+
+/* Badges */
+.type-badge {
+    font-size: 0.75em;
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.type-dataset {
+    background-color: #e1f5fe;
+    color: #0277bd;
+    border: 1px solid #b3e5fc;
+}
+
+.type-software {
+    background-color: #f3e5f5;
+    color: #7b1fa2;
+    border: 1px solid #e1bee7;
+}
+
+.type-research {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    border: 1px solid #c8e6c9;
+}

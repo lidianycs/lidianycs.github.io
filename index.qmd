@@ -1,0 +1,46 @@
+---
+title: "Lidiany Cerqueira"
+subtitle: "PhD in Computer Science and <br>Senior Software Engineer"
+image: attachments/lidianycs.png
+toc: false
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - text: "{{< ai google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=kxhHAW4AAAAJ
+      target: _blank
+    - text: "{{< ai orcid >}} ORCID"
+      href: http://orcid.org/0000-0002-4989-0986
+      target: _blank
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/lidianycs
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lidianycs
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: "mailto:lidianycs@ufs.br"
+---
+
+**Lidiany Cerqueira** is a Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, her research interests include software engineering, human-centered computing, and empirical research.
+
+She is a pioneer in the empirical study of empathy as a core human factor in software engineering, examining its effects on productivity, software quality, developers' well-being, collaboration, and mental health. She has published in leading venues, including [ACM TOSEM](https://doi.org/10.1145/3748721) and [IEEE Software](https://doi.org/10.1109/MS.2024.3377897).
+
+🏆 Her research has been recognized with a [Distinguished Paper Award](https://doi.org/10.1145/3613372.3613407) at the *2023 Brazilian Symposium on Software Engineering, Research Track* and a [finalist placement](https://www.scitepress.org/Papers/2024/126764/126764.pdf) for Best Paper in the *Industry Track at the 2024 International Conference on Enterprise Information Systems (ICEIS)*.
+
+
+### Interests
+
+- ⛏️ Software Engineering 
+- 👥 Human-Centered Computing
+- 📊 Empirical Research 
+- 🧠 AI4SE 
+- 🌱 Software Sustainability 
+- 🫱🏻‍🫲🏾 Diversity, Equity, and Inclusion (DEI) 
