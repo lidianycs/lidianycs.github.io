@@ -4,6 +4,9 @@ project:
   resources:
     - CNAME
     - attachments/**
+  render:
+    - "*qmd"
+    - "!backup_pt_legacy/"
   
 
 website:
