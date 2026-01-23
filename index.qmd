@@ -35,14 +35,14 @@ about:
 
 She is a pioneer in the empirical study of empathy as a core human factor in software engineering, examining its effects on productivity, software quality, developers' well-being, collaboration, and mental health. She has published in leading venues, including [ACM TOSEM](https://doi.org/10.1145/3748721) and [IEEE Software](https://doi.org/10.1109/MS.2024.3377897).
 
-## Academic Recognition
+### Academic Recognition
 
-- 2024  Recipient of ACM SIGSOFT Grant – Fourth LATAM School in Software Engineering  
-- 2024  [Best Paper Award Finalist](https://www.scitepress.org/Papers/2024/126764/126764.pdf), Industry Track, International Conference on Enterprise Information Systems (ICEIS)  
-- 2023  Recipient of the CAPES PrInt Visiting Scholar Fellowship  
-- 2023  [Distinguished Paper Award](https://doi.org/10.1145/3613372.3613407), Research Track, Brazilian Symposium on Software Engineering (SBES)  
-- 2022  Recipient of ACM SIGSOFT Grant – Second LATAM School in Software Engineering  
-- 2010  Honorable Mention, ERBASE  
+- **2024**  Recipient of ACM SIGSOFT Grant – 4th LATAM School in SE  
+- **2024**  [Best Paper Award Finalist](https://www.scitepress.org/Papers/2024/126764/126764.pdf), *Industry Track*, International Conference on Enterprise Information Systems (ICEIS)  
+- **2023**  Recipient of the CAPES PrInt Visiting Scholar Fellowship  
+- **2023**  [Distinguished Paper Award](https://doi.org/10.1145/3613372.3613407), *Research Track*, Brazilian Symposium on Software Engineering (SBES)  
+- **2022**  Recipient of ACM SIGSOFT Grant – 2nd LATAM School in SE
+- **2010**  Honorable Mention, Workshop of Scientific Undergraduate Research, ERBASE  
 
 
 
