@@ -14,6 +14,7 @@ website:
   google-analytics: "G-NTTVS2BF7B"
   site-url: "https://lidianycs.site"
   favicon: attachments/Logo.png
+  cookie-consent: true
   search: true
   navbar:
     left:
