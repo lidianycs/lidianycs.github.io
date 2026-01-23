@@ -13,7 +13,7 @@ website:
   title: "Lidiany Cerqueira, PhD"
   google-analytics: "G-NTTVS2BF7B"
   site-url: "https://lidianycs.site"
-  favicon: attachments/logo.png
+  favicon: attachments/Logo.png
   search: true
   navbar:
     left:
@@ -70,3 +70,5 @@ format:
     css: styles.css
     toc: true
     link-external-newwindow: true
+
+lang: en
