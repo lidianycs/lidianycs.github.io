@@ -172,10 +172,32 @@ body.quarto-dark .pub-venue {
 
 
 body.quarto-dark .dataset-title:hover {
-    color: #6ea8fe !important; /* A lighter blue for hover */
+    color: #6ea8fe !important;
 }
 
 
 body.quarto-dark .dataset-item {
     border-left: 3px solid #444 !important;
+}
+
+/* --- Dark Mode Publication Titles --- */
+
+
+body.quarto-dark .pub-title-journal {
+    color: #6ea8fe !important;
+}
+body.quarto-dark .pub-title-journal:hover {
+    color: #9ec5fe !important; 
+}
+
+body.quarto-dark .pub-title-conf {
+    color: #75b798 !important;
+}
+body.quarto-dark .pub-title-conf:hover {
+    color: #a3cfbb !important; 
+}
+
+
+body.quarto-dark .pub-title-web {
+    color: #ffda6a !important;
 }
