@@ -8,7 +8,7 @@ I am deeply committed to serving the software engineering community through lead
 
 I actively contribute to the technical quality and community direction of international conferences by serving on program committees and student competition tracks.
 
-* **2026** | [2nd International Workshop on Responsible Software Engineering (RESP-SE)](https://sites.google.com/view/responsiblese2026/about)
+* **2026** | [2nd International Workshop on Responsible Software Engineering (FSE)](https://sites.google.com/view/responsiblese2026/about)
 * **2026** | [XII Latin American Conference on Human–Computer Interaction (CLIHC)](https://clihc2026.laihc.org/en/student-design-competition) 
 * **2026** | [XXII Brazilian Symposium on Information Systems (SBSI)](https://sbsi.sbc.org.br/2026/)
 
@@ -24,6 +24,6 @@ I ensure the integrity and rigor of scientific literature through consistent pee
 * **2026 – Present** | The Journal of Open Source Software (JOSS)
 * **2025 – Present** | Journal of Systems & Software (JSS)
 * **2025 – Present** | Information and Software Technology (IST)
-* **2025 – Present** | Science of Computer Programming (SCP)
+* **2025 – Present** | Science of Computer Programming (SCICO)
 * **2025 – Present** | JMIR mHealth and uHealth
 * **2024 – Present** | IEEE Software
