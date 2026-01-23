@@ -141,3 +141,21 @@
     color: #2e7d32;
     border: 1px solid #c8e6c9;
 }
+
+/* Mobile Menu Adjustment: Horizontal Icons */
+@media (max-width: 991px) {
+  /* Target: The right side of the navbar (where the icons are) */
+  .navbar-collapse .navbar-nav.ms-auto {
+    flex-direction: row !important; /* Force horizontal line */
+    justify-content: center;        /* Center on screen */
+    gap: 20px;                      /* Space between icons */
+    margin-top: 15px;               /* Spacing from the menu items above */
+    margin-bottom: 15px;            /* Spacing from the bottom */
+    flex-wrap: wrap;                /* Wrap nicely if too many icons */
+  }
+
+  /* Increase clickable area for touch */
+  .navbar-collapse .navbar-nav.ms-auto .nav-link {
+    padding: 10px;
+  }
+}
