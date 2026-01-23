@@ -88,7 +88,7 @@
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "To bridge the gap between practitioners and academia, I frequently contribute to media outlets and educational projects"
+    "text": "To bridge the gap between practitioners and academia, I frequently contribute to technical communities, media outlets and educational projects."
   },
   {
     "objectID": "outreach.html#community-leadership",
@@ -165,7 +165,7 @@
     "href": "service.html#program-committee-member",
     "title": "Service",
     "section": "Program Committee Member",
-    "text": "Program Committee Member\nI actively contribute to the technical quality and community direction of international conferences by serving on program committees and student competition tracks.\n\n2026 | 2nd International Workshop on Responsible Software Engineering (RESP-SE)\n2026 | XII Latin American Conference on Human–Computer Interaction (CLIHC)\n2026 | XXII Brazilian Symposium on Information Systems (SBSI)"
+    "text": "Program Committee Member\nI actively contribute to the technical quality and community direction of international conferences by serving on program committees and student competition tracks.\n\n2026 | 2nd International Workshop on Responsible Software Engineering (FSE)\n2026 | XII Latin American Conference on Human–Computer Interaction (CLIHC)\n2026 | XXII Brazilian Symposium on Information Systems (SBSI)"
   },
   {
     "objectID": "service.html#organizing-committee-member",
@@ -179,6 +179,6 @@
     "href": "service.html#reviewer",
     "title": "Service",
     "section": "Reviewer",
-    "text": "Reviewer\nI ensure the integrity and rigor of scientific literature through consistent peer review for leading journals in software engineering.\nJournals\n\n2026 – Present | The Journal of Open Source Software (JOSS)\n2025 – Present | Journal of Systems & Software (JSS)\n2025 – Present | Information and Software Technology (IST)\n2025 – Present | Science of Computer Programming (SCP)\n2025 – Present | JMIR mHealth and uHealth\n2024 – Present | IEEE Software"
+    "text": "Reviewer\nI ensure the integrity and rigor of scientific literature through consistent peer review for leading journals in software engineering.\nJournals\n\n2026 – Present | The Journal of Open Source Software (JOSS)\n2025 – Present | Journal of Systems & Software (JSS)\n2025 – Present | Information and Software Technology (IST)\n2025 – Present | Science of Computer Programming (SCICO)\n2025 – Present | JMIR mHealth and uHealth\n2024 – Present | IEEE Software"
   }
 ]
