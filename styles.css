@@ -159,3 +159,23 @@
     padding: 10px;
   }
 }
+
+
+/* 1. Reset text colors to default when in Dark Mode */
+body.quarto-dark .dataset-title,
+body.quarto-dark .dataset-meta,
+body.quarto-dark .dataset-note,
+body.quarto-dark .pub-authors,
+body.quarto-dark .pub-venue {
+    color: inherit !important; 
+}
+
+
+body.quarto-dark .dataset-title:hover {
+    color: #6ea8fe !important; /* A lighter blue for hover */
+}
+
+
+body.quarto-dark .dataset-item {
+    border-left: 3px solid #444 !important;
+}
