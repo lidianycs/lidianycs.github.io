@@ -22,11 +22,12 @@ about:
       target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/lidianycs
-      target: _blank
+      href: https://www.linkedin.com/in/lidianycs      
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/lidianycs.bsky.social      
     - icon: envelope
       text: Email
-      href: "mailto:lidianycs@ufs.br"
+      href: "mailto:lidianycs@gmail.com"
 ---
 
 ## Lidiany Cerqueira, PhD.

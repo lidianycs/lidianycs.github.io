@@ -49,8 +49,9 @@ website:
         href: https://github.com/lidianycs
         target: _blank
       - icon: linkedin        
-        href: https://www.linkedin.com/in/lidianycs
-        target: _blank
+        href: https://www.linkedin.com/in/lidianycs 
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app/profile/lidianycs.bsky.social        
       - icon: envelope        
         href: "mailto:lidianycs@gmail.com" 
 
