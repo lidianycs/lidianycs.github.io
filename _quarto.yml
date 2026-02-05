@@ -36,33 +36,26 @@ website:
         text: CV
         target: _blank
     right:
-    - text: "{{< ai google-scholar >}}"
-      href: https://scholar.google.com/citations?user=kxhHAW4AAAAJ
-      target: _blank
-      aria-label: "Google Scholar"
-    - text: "{{< ai orcid >}}"
-      href: http://orcid.org/0000-0002-4989-0986
-      target: _blank
-      aria-label: "ORCID"
-    - text: "{{< ai researchgate >}}"
-      href: https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf
-      target: _blank
-      aria-label: "ResearchGate"
-    - icon: github
-      href: https://github.com/lidianycs
-      target: _blank
-      aria-label: "GitHub"
-    - icon: linkedin
-      href: https://www.linkedin.com/in/lidianycs
-      target: _blank
-      aria-label: "LinkedIn"
-    - text: "{{< fa brands bluesky >}}"
-      href: https://bsky.app/profile/lidianycs.bsky.social
-      target: _blank
-      aria-label: "Bluesky"
-    - icon: envelope
-      href: "mailto:lidianycs@gmail.com"
-      aria-label: "Email"
+      - text: "{{< ai google-scholar >}} <span class='visually-hidden'>Google Scholar</span>"
+        href: https://scholar.google.com/citations?user=kxhHAW4AAAAJ
+        target: _blank
+      - text: "{{< ai orcid >}} <span class='visually-hidden'>ORCID</span>"
+        href: http://orcid.org/0000-0002-4989-0986
+        target: _blank
+      - text: "{{< ai researchgate >}} <span class='visually-hidden'>ResearchGate</span>"
+        href: https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf
+        target: _blank
+      - text: "<i class='bi bi-github'></i> <span class='visually-hidden'>GitHub</span>"
+        href: https://github.com/lidianycs
+        target: _blank
+      - text: "<i class='bi bi-linkedin'></i> <span class='visually-hidden'>LinkedIn</span>"
+        href: https://www.linkedin.com/in/lidianycs
+        target: _blank
+      - text: "{{< fa brands bluesky >}} <span class='visually-hidden'>Bluesky</span>"
+        href: https://bsky.app/profile/lidianycs.bsky.social
+        target: _blank
+      - text: "<i class='bi bi-envelope'></i> <span class='visually-hidden'>Email</span>"
+        href: "mailto:lidianycs@gmail.com"
 
   
   page-footer:
