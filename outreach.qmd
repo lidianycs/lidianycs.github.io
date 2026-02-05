@@ -2,7 +2,7 @@
 title: "Outreach"
 ---
 
-To bridge the gap between practitioners and academia, I frequently contribute to technical communities, media outlets and educational projects.
+To bridge the gap between practitioners and academia, Lidiany Cerqueira contributes to technical communities, media outlets and educational projects.
 
 ## Community Leadership
 
@@ -14,14 +14,31 @@ I am proud to serve as a **Board Member** and **Community Manager** at [BRAVAS i
 
 
 ## Science Communication
-I actively produce content to bridge the gap between scientific research and software practitioners.
-I am a recurring author at DEV, a large developer's community.
+Actively producing content to bridge the gap between scientific research and software practitioners.
+Recurring author at DEV, a large developer's community.
+
+::: {.pub-item}
+[Podcast: Reference Hallucinations, Open Science, and CERCA](https://www.youtube.com/watch?v=QVN57j1zcik){.pub-title .pub-title-web}
+
+::: {.pub-authors}
+**Frank Delporte**, **Lidiany Cerqueira**
+:::
+
+::: {.pub-venue}
+Youtube
+:::
+
+::: {.pub-badges}
+[🌐 Podcast]{.badge .badge-web}
+:::
 
 ::: {.pub-item}
 [Exploring the DEV Community as a Data Source for Human Aspects in Software Engineering Research](https://dev.to/lidianycs/using-the-dev-community-as-a-data-source-for-human-aspects-in-software-engineering-research-h56){.pub-title .pub-title-web}
 
 ::: {.pub-authors}
 **Lidiany Cerqueira**
+:::
+
 :::
 
 ::: {.pub-venue}
@@ -69,8 +86,8 @@ Coordinated a students team which developed an Android app using no code tools t
 ### Aging, Technology, and Health 
 *2017 – 2018*
 
-I coordinated a multidisciplinary project to empower older adults through technology and health classes.
-* In this project, we developed and assessed an Android app to assist older adults in learning mobile technology for communication, entertainment, and health habits.
+Coordinated a multidisciplinary project to empower older adults through technology and health classes.
+* Developed and assessed an Android app to assist older adults in learning mobile technology for communication, entertainment, and health habits.
 
 **Publication:**
 * [Aging, Technology and Health — A Multidisciplinary Experience to Promote Healthy Aging](https://www.researchgate.net/profile/Lidiany-Cerqueira/publication/344658473_Envelhecimento_Tecnologia_e_Saude_Uma_Experiencia_Multidisciplinar_para_Promocao_do_Envelhecimento_Saudavel/links/5f874f6a299bf1b53e28cfd8/Envelhecimento-Tecnologia-e-Saude-Uma-Experiencia-Multidisciplinar-para-Promocao-do-Envelhecimento-Saudavel.pdf)
@@ -80,7 +97,7 @@ I coordinated a multidisciplinary project to empower older adults through techno
 ## Workshops & Training 
 *Since 2011*
 
-I have been conducting educational workshops focusing on technical skills and inclusion in Computer Science.
+Conducting educational workshops focusing on technical skills and inclusion in Computer Science.
 * **Topics:** Java programming, R for data science, Cybersecurity, LaTeX, and tools for remote education.
 * **Focus:** Promoting the inclusion of underrepresented groups in CS.
 

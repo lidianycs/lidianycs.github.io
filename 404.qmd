@@ -15,7 +15,7 @@ toc: false
   <br>
 
   <p>
-    <a href="/" style="text-decoration: none; padding: 10px 20px; background-color: #0d47a1; color: #fff; border-radius: 5px; font-weight: bold;">
+    <a href="/" style="text-decoration: none; padding: 10px 20px; background-color: #b396d8; color: #fff; border-radius: 5px; font-weight: bold;">
       Return Home
     </a>
   </p>

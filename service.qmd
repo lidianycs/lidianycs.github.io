@@ -2,11 +2,11 @@
 title: "Service"
 ---
 
-I am deeply committed to serving the software engineering community through leadership, peer review, and conference organization.
+Lidiany Cerqueira is deeply committed to serving the software engineering community through leadership, peer review, and conference organization.
 
 ## Program Committee Member
 
-I actively contribute to the technical quality and community direction of international conferences by serving on program committees and student competition tracks.
+Actively contributing to the technical quality and community direction of international conferences by serving on program committees and student competition tracks.
 
 * **2026** | [2nd International Workshop on Responsible Software Engineering (FSE)](https://sites.google.com/view/responsiblese2026/about)
 * **2026** | [XII Latin American Conference on Human–Computer Interaction (CLIHC)](https://clihc2026.laihc.org/en/student-design-competition) 
@@ -17,7 +17,7 @@ I actively contribute to the technical quality and community direction of intern
 
 ## Reviewer
 
-I ensure the integrity and rigor of scientific literature through consistent peer review for leading journals in software engineering.
+Ensuring the integrity and rigor of scientific literature through consistent peer review for leading journals in software engineering.
 
 **Journals**
 

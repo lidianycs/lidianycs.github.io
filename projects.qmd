@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-My work focuses on the intersection of human-centric software engineering, open science tools, and the application of Generative AI in empirical research.
+Lidiany Cerqueira is current working on the intersection of human-centric software engineering, open science tools, and the application of Generative AI in empirical research.
 
 ::: {.dataset-item}
 ::: {.dataset-header}
@@ -15,7 +15,7 @@ My work focuses on the intersection of human-centric software engineering, open 
 :::
 
 ::: {.dataset-note}
-I am leading a new international initiative exploring empathy across diverse cultural work settings. We are currently conducting comparative case studies and interviews, starting with software teams in **Portugal** and **Botswana**, to understand how cultural context influences empathic behavior in engineering.
+Leading a new international initiative exploring empathy across diverse cultural work settings. We are currently conducting comparative case studies and interviews, starting with software teams in **Portugal** and **Botswana**, to understand how cultural context influences empathic behavior in engineering.
 :::
 :::
 
