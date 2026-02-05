@@ -24,7 +24,7 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/lidianycs
       target: _blank      
-    - text: "{{< fa brands bluesky >}}"
+    - text: "{{< fa brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/lidianycs.bsky.social
       target: _blank      
     - icon: envelope
