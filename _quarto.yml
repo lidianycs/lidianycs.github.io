@@ -36,26 +36,33 @@ website:
         text: CV
         target: _blank
     right:
-      - text: "{{< ai google-scholar >}}"
-        href: https://scholar.google.com/citations?user=kxhHAW4AAAAJ
-        target: _blank
-      - text: "{{< ai orcid >}}"
-        href: http://orcid.org/0000-0002-4989-0986
-        target: _blank
-      - text: "{{< ai researchgate >}}"
-        href: https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf
-        target: _blank
-      - icon: github        
-        href: https://github.com/lidianycs
-        target: _blank
-      - icon: linkedin        
-        href: https://www.linkedin.com/in/lidianycs
-        target: _blank 
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app/profile/lidianycs.bsky.social
-        target: _blank        
-      - icon: envelope        
-        href: "mailto:lidianycs@gmail.com" 
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=kxhHAW4AAAAJ
+      target: _blank
+      aria-label: "Google Scholar"
+    - text: "{{< ai orcid >}}"
+      href: http://orcid.org/0000-0002-4989-0986
+      target: _blank
+      aria-label: "ORCID"
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf
+      target: _blank
+      aria-label: "ResearchGate"
+    - icon: github
+      href: https://github.com/lidianycs
+      target: _blank
+      aria-label: "GitHub"
+    - icon: linkedin
+      href: https://www.linkedin.com/in/lidianycs
+      target: _blank
+      aria-label: "LinkedIn"
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/lidianycs.bsky.social
+      target: _blank
+      aria-label: "Bluesky"
+    - icon: envelope
+      href: "mailto:lidianycs@gmail.com"
+      aria-label: "Email"
 
   
   page-footer:
@@ -63,8 +70,10 @@ website:
     right:
       - icon: github
         href: https://github.com/lidianycs
+        aria-label: "GitHub"
       - icon: linkedin
         href: https://linkedin.com/in/lidianycs
+        aria-label: "LinkedIn"
 
 format:
   html:

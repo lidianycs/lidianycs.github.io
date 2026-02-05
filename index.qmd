@@ -2,6 +2,7 @@
 title: "Lidiany Cerqueira"
 subtitle: "PhD in Computer Science and <br>Senior Software Engineer"
 image: attachments/lidianycs.png
+image-alt: "Headshot of Lidiany Cerqueira smiling at the camera, wearing black clothing against a purple background"
 toc: false
 about:
   template: trestles
@@ -10,26 +11,33 @@ about:
     - text: "{{< ai google-scholar >}} Scholar"
       href: https://scholar.google.com/citations?user=kxhHAW4AAAAJ
       target: _blank
+      aria-label: "Google Scholar"
     - text: "{{< ai orcid >}} ORCID"
       href: http://orcid.org/0000-0002-4989-0986
       target: _blank
+      aria-label: "ORCID"
     - text: "{{< ai researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Lidiany-Cerqueira?ev=hdr_xprf
       target: _blank
+      aria-label: "ResearchGate"
     - icon: github
       text: GitHub
       href: https://github.com/lidianycs
       target: _blank
+      aria-label: "GitHub"
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/lidianycs
-      target: _blank      
+      target: _blank
+      aria-label: "LinkedIn"
     - text: "{{< fa brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/lidianycs.bsky.social
-      target: _blank      
+      target: _blank
+      aria-label: "Bluesky"
     - icon: envelope
       text: Email
       href: "mailto:lidianycs@gmail.com"
+      aria-label: "Email"
 ---
 
 ## Lidiany Cerqueira, PhD.
