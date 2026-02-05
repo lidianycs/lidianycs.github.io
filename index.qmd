@@ -46,6 +46,8 @@ about:
 
 She is a pioneer in the empirical study of empathy as a core human factor in software engineering, examining its effects on productivity, software quality, developers' well-being, collaboration, and mental health. She has published in leading venues, including [ACM TOSEM](https://doi.org/10.1145/3748721) and [IEEE Software](https://doi.org/10.1109/MS.2024.3377897).
 
+She designed and developed [CERCA](https://github.com/lidianycs/cerca), an open-source tool to help researchers detect hallucinated references in scientific manuscripts.
+
 ### Academic Recognition
 
 - **2024**  Recipient of ACM SIGSOFT Grant – 4th LATAM School in SE  
