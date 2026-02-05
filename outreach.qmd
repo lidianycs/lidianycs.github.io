@@ -64,10 +64,10 @@ Recurring author at DEV, a large developer's community.
 Coordinated a students team which developed an Android app using no code tools to teach human anatomy in health classes. **Project Link:** [labmorfoquiz.github.io](https://labmorfoquiz.github.io/)
 
 **Related Publications:**
-- [RENOTE: LabMorfoQuiz: a Gamified Application as a Learning Resource in Higher Education Health Courses](https://seer.ufrgs.br/renote/article/view/99435)
-- [SBIE'20: Teaching computer science applied to health using App Inventor](https://sol.sbc.org.br/index.php/sbie/article/view/12776)
-- [Rev. Saúde Digital: Survey and evaluation of apps on anxiety and depression](https://repositorio.ufc.br/handle/riufc/54516)
-- [RENOTE: Informatics applied to health education](https://seer.ufrgs.br/renote/article/view/95703)
+  * [RENOTE: LabMorfoQuiz: a Gamified Application as a Learning Resource in Higher Education Health Courses](https://seer.ufrgs.br/renote/article/view/99435)
+  * [SBIE'20: Teaching computer science applied to health using App Inventor](https://sol.sbc.org.br/index.php/sbie/article/view/12776)
+  * [Rev. Saúde Digital: Survey and evaluation of apps on anxiety and depression](https://repositorio.ufc.br/handle/riufc/54516)
+  * [RENOTE: Informatics applied to health education](https://seer.ufrgs.br/renote/article/view/95703)
 
 
 
@@ -78,7 +78,7 @@ Coordinated a multidisciplinary project to empower older adults through technolo
 * Developed and assessed an Android app to assist older adults in learning mobile technology for communication, entertainment, and health habits.
 
 **Publication:**
-* [Aging, Technology and Health — A Multidisciplinary Experience to Promote Healthy Aging](https://www.researchgate.net/profile/Lidiany-Cerqueira/publication/344658473_Envelhecimento_Tecnologia_e_Saude_Uma_Experiencia_Multidisciplinar_para_Promocao_do_Envelhecimento_Saudavel/links/5f874f6a299bf1b53e28cfd8/Envelhecimento-Tecnologia-e-Saude-Uma-Experiencia-Multidisciplinar-para-Promocao-do-Envelhecimento-Saudavel.pdf)
+  * [Aging, Technology and Health — A Multidisciplinary Experience to Promote Healthy Aging](https://www.researchgate.net/profile/Lidiany-Cerqueira/publication/344658473_Envelhecimento_Tecnologia_e_Saude_Uma_Experiencia_Multidisciplinar_para_Promocao_do_Envelhecimento_Saudavel/links/5f874f6a299bf1b53e28cfd8/Envelhecimento-Tecnologia-e-Saude-Uma-Experiencia-Multidisciplinar-para-Promocao-do-Envelhecimento-Saudavel.pdf)
 
 
 
