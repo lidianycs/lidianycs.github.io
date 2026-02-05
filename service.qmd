@@ -8,6 +8,7 @@ Dr. Lidiany Cerqueira is deeply committed to serving the software engineering co
 
 Actively contributing to the technical quality and community direction of international conferences by serving on program committees and student competition tracks.
 
+* **2026** | [Ideas, Visions and Reflections Track (FSE-IVR)](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections)
 * **2026** | [2nd International Workshop on Responsible Software Engineering (FSE)](https://sites.google.com/view/responsiblese2026/about)
 * **2026** | [XII Latin American Conference on Human–Computer Interaction (CLIHC)](https://clihc2026.laihc.org/en/student-design-competition) 
 * **2026** | [XXII Brazilian Symposium on Information Systems (SBSI)](https://sbsi.sbc.org.br/2026/)

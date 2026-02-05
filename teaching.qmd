@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-I have experience teaching Computer Science and Health Informatics at both undergraduate and outreach levels. My focus is on active learning, practical programming skills, and mentoring.
+Dr. Lidiany Cerqueira has experience teaching Computer Science and Health Informatics at both undergraduate and outreach levels. My focus is on active learning, practical programming skills, and mentoring.
 
 ## Federal University of Bahia (UFBA)
 
