@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-Lidiany Cerqueira is current working on the intersection of human-centric software engineering, open science tools, and the application of Generative AI in empirical research.
+Dr. Lidiany Cerqueira is current working on the intersection of human-centric software engineering, open science tools, and the application of Generative AI in empirical research.
 
 ::: {.dataset-item}
 ::: {.dataset-header}

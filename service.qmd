@@ -2,7 +2,7 @@
 title: "Service"
 ---
 
-Lidiany Cerqueira is deeply committed to serving the software engineering community through leadership, peer review, and conference organization.
+Dr. Lidiany Cerqueira is deeply committed to serving the software engineering community through leadership, peer review, and conference organization.
 
 ## Program Committee Member
 
