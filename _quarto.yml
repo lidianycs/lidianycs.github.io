@@ -52,11 +52,11 @@ website:
         href: https://www.linkedin.com/in/lidianycs
         target: _blank
       - icon: envelope        
-        href: "mailto:lidianycs@ufs.br" 
+        href: "mailto:lidianycs@gmail.com" 
 
   
   page-footer:
-    left: "© 2026 Lidiany Cerqueira"
+    left: "Website made with [Quarto](https://quarto.org/) © 2026 Lidiany Cerqueira"
     right:
       - icon: github
         href: https://github.com/lidianycs
