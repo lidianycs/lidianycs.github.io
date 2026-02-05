@@ -18,18 +18,14 @@ Actively producing content to bridge the gap between scientific research and sof
 Recurring author at DEV, a large developer's community.
 
 ::: {.pub-item}
-[Podcast: Reference Hallucinations, Open Science, and CERCA](https://www.youtube.com/watch?v=QVN57j1zcik){.pub-title .pub-title-web}
+[Reference Hallucinations, Open Science, and CERCA](https://www.youtube.com/watch?v=QVN57j1zcik){.pub-title .pub-title-web}
 
 ::: {.pub-authors}
 **Frank Delporte**, **Lidiany Cerqueira**
 :::
 
-::: {.pub-venue}
-Youtube
-:::
-
 ::: {.pub-badges}
-[🌐 Podcast]{.badge .badge-web}
+[🎙️ Podcast]{.badge .badge-web}
 :::
 
 :::
@@ -39,10 +35,6 @@ Youtube
 
 ::: {.pub-authors}
 **Lidiany Cerqueira**
-:::
-
-::: {.pub-venue}
-DEV.to
 :::
 
 ::: {.pub-badges}
@@ -56,10 +48,6 @@ DEV.to
 
 ::: {.pub-authors}
 **Lidiany Cerqueira**
-:::
-
-::: {.pub-venue}
-DEV.to
 :::
 
 ::: {.pub-badges}
