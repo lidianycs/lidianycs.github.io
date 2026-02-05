@@ -2,7 +2,7 @@
 title: "Lidiany Cerqueira"
 subtitle: "PhD in Computer Science and <br>Senior Software Engineer"
 image: attachments/lidianycs.png
-image-alt: "Headshot of Lidiany Cerqueira smiling at the camera, wearing black clothing against a purple background"
+image-alt: "Headshot of Lidiany Cerqueira"
 toc: false
 about:
   template: trestles
