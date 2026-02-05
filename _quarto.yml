@@ -49,15 +49,17 @@ website:
         href: https://github.com/lidianycs
         target: _blank
       - icon: linkedin        
-        href: https://www.linkedin.com/in/lidianycs 
+        href: https://www.linkedin.com/in/lidianycs
+        target: _blank 
       - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app/profile/lidianycs.bsky.social        
+        href: https://bsky.app/profile/lidianycs.bsky.social
+        target: _blank        
       - icon: envelope        
         href: "mailto:lidianycs@gmail.com" 
 
   
   page-footer:
-    left: "Website made with [Quarto](https://quarto.org/) © 2026 Lidiany Cerqueira"
+    left: "Made with ❤️‍🔥 using [Quarto](https://quarto.org/) © 2026 Lidiany Cerqueira"
     right:
       - icon: github
         href: https://github.com/lidianycs

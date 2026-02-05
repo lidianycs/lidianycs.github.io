@@ -22,9 +22,11 @@ about:
       target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/lidianycs      
+      href: https://www.linkedin.com/in/lidianycs
+      target: _blank      
     - text: "{{< fa brands bluesky >}}"
-      href: https://bsky.app/profile/lidianycs.bsky.social      
+      href: https://bsky.app/profile/lidianycs.bsky.social
+      target: _blank      
     - icon: envelope
       text: Email
       href: "mailto:lidianycs@gmail.com"
